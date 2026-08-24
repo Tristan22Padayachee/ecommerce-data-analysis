@@ -1,7 +1,13 @@
 library(tidyverse)
 library(lubridate)
 
-base <- normalizePath(file.path(getwd(), ".."))
+script_arg <- grep("^--file=", commandArgs(trailingOnly = FALSE), value = TRUE)
+base <- if (length(script_arg) > 0) {
+  dirname(dirname(normalizePath(sub("^--file=", "", script_arg[1]))))
+} else {
+  normalizePath(getwd())
+}
+dir.create(file.path(base, "visualisations"), showWarnings = FALSE)
 customers <- read_csv(file.path(base,"data","customers.csv"))
 products <- read_csv(file.path(base,"data","products.csv"))
 orders <- read_csv(file.path(base,"data","orders.csv"))
