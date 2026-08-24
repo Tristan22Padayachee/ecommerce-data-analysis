@@ -1,0 +1,6 @@
+E-Commerce Sales & Customer Analytics | SQL, Python, R
+- Built an end-to-end analytics project using SQL, Python and R to analyse 8,000+ e-commerce transactions.
+- Used SQL joins, aggregations and business queries to evaluate revenue, profit, products, customers and regions.
+- Used Python/Pandas for data cleaning, exploratory analysis, KPI calculations and RFM customer segmentation.
+- Used R for correlation analysis and regression modelling to investigate the relationship between discounts and profitability.
+- Produced business-focused visualisations and recommendations from analytical findings.

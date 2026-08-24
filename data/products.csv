@@ -1,0 +1,79 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice
+P001,Smartphone,Electronics,103.23,135.09
+P002,Smartphone,Electronics,512.39,777.59
+P003,Laptop,Electronics,1026.4,1457.47
+P004,Laptop,Electronics,909.2,1149.43
+P005,Headphones,Electronics,459.14,832.47
+P006,Headphones,Electronics,2971.89,5204.6
+P007,Monitor,Electronics,4279.68,6988.07
+P008,Monitor,Electronics,3200.93,4231.59
+P009,Tablet,Electronics,3861.16,5127.41
+P010,Tablet,Electronics,2970.96,5317.84
+P011,Smartwatch,Electronics,2569.01,4702.06
+P012,Smartwatch,Electronics,4037.21,6731.61
+P013,Keyboard,Electronics,1177.34,1801.53
+P014,Keyboard,Electronics,4216.01,6885.88
+P015,Mouse,Electronics,4155.99,5884.18
+P016,Mouse,Electronics,1950.08,3494.61
+P017,Air Fryer,Home & Kitchen,3475.97,5019.45
+P018,Air Fryer,Home & Kitchen,770.75,997.66
+P019,Blender,Home & Kitchen,3508.12,5190.89
+P020,Blender,Home & Kitchen,1530.31,1968.03
+P021,Toaster,Home & Kitchen,4302.45,6061.29
+P022,Toaster,Home & Kitchen,2010.56,3106.38
+P023,Coffee Maker,Home & Kitchen,4182.21,6759.21
+P024,Coffee Maker,Home & Kitchen,844.07,1304.29
+P025,Vacuum Cleaner,Home & Kitchen,690.23,1181.14
+P026,Vacuum Cleaner,Home & Kitchen,1021.82,1671.7
+P027,Cookware Set,Home & Kitchen,4111.11,6903.54
+P028,Cookware Set,Home & Kitchen,509.63,659.33
+P029,Microwave,Home & Kitchen,2592.48,3630.4
+P030,Microwave,Home & Kitchen,2034.18,3636.93
+P031,Sneakers,Fashion,712.4,1164.2
+P032,Sneakers,Fashion,4201.38,6927.08
+P033,Jacket,Fashion,1235.64,2063.56
+P034,Jacket,Fashion,4075.55,6499.62
+P035,Jeans,Fashion,2343.45,4250.89
+P036,Jeans,Fashion,2233.52,3376.27
+P037,T-Shirt,Fashion,3806.02,6540.88
+P038,T-Shirt,Fashion,3544.95,5580.03
+P039,Dress,Fashion,64.72,117.95
+P040,Dress,Fashion,3690.0,5679.79
+P041,Backpack,Fashion,2574.24,4662.01
+P042,Backpack,Fashion,1647.19,2732.86
+P043,Watch,Fashion,1832.74,2986.2
+P044,Watch,Fashion,4316.77,5630.8
+P045,Skincare Set,Beauty,2429.09,4436.87
+P046,Skincare Set,Beauty,408.03,622.57
+P047,Hair Dryer,Beauty,3460.96,5671.39
+P048,Hair Dryer,Beauty,835.95,1064.66
+P049,Perfume,Beauty,1759.53,2401.06
+P050,Perfume,Beauty,3146.68,5625.87
+P051,Makeup Kit,Beauty,2856.25,4186.0
+P052,Makeup Kit,Beauty,427.64,696.91
+P053,Shampoo,Beauty,3322.19,4431.69
+P054,Shampoo,Beauty,909.26,1529.23
+P055,Electric Shaver,Beauty,2688.61,4149.98
+P056,Electric Shaver,Beauty,330.32,520.03
+P057,Running Shoes,Sports,1419.4,2228.97
+P058,Running Shoes,Sports,3762.41,5717.3
+P059,Yoga Mat,Sports,4481.46,5701.43
+P060,Yoga Mat,Sports,299.44,515.84
+P061,Dumbbell Set,Sports,240.52,317.71
+P062,Dumbbell Set,Sports,3641.61,6010.08
+P063,Football,Sports,2089.75,3462.4
+P064,Football,Sports,3940.44,5277.72
+P065,Fitness Tracker,Sports,2628.09,4743.41
+P066,Fitness Tracker,Sports,214.11,285.83
+P067,Sports Bag,Sports,2959.55,4536.2
+P068,Sports Bag,Sports,4135.18,5282.61
+P069,Business Book,Books,3170.77,4211.81
+P070,Business Book,Books,816.51,1045.11
+P071,Fiction Novel,Books,1417.65,2447.17
+P072,Fiction Novel,Books,2080.02,2813.05
+P073,Data Science Book,Books,2680.14,4665.27
+P074,Data Science Book,Books,523.17,810.02
+P075,Cookbook,Books,3606.33,4985.19
+P076,Cookbook,Books,3629.82,5465.52
+P077,Self Help Book,Books,3661.27,6734.23
+P078,Self Help Book,Books,3068.87,4433.11

@@ -1,0 +1,1001 @@
+CustomerID,FirstName,LastName,Gender,Age,City,Province,SignupDate
+C0001,Themba,Pillay,Male,26,Gqeberha,Eastern Cape,2025-01-29
+C0002,Layla,Dlamini,Female,20,Secunda,Mpumalanga,2025-01-28
+C0003,Amara,Smith,Male,53,Pretoria,Gauteng,2023-08-27
+C0004,Mia,Smith,Female,69,Centurion,Gauteng,2023-08-14
+C0005,Nandi,Nkosi,Female,27,Polokwane,Limpopo,2024-12-15
+C0006,Oliver,Khumalo,Male,40,Soweto,Gauteng,2023-04-15
+C0007,Noah,Patel,Female,52,Tzaneen,Limpopo,2023-09-28
+C0008,Layla,Mthembu,Female,54,Centurion,Gauteng,2023-03-22
+C0009,Aiden,Govender,Female,23,Johannesburg,Gauteng,2023-02-16
+C0010,Themba,Ndlovu,Female,28,Polokwane,Limpopo,2024-01-25
+C0011,Themba,Patel,Male,56,Pietermaritzburg,KwaZulu-Natal,2024-11-17
+C0012,Aiden,Naidoo,Female,42,Mthatha,Eastern Cape,2025-01-16
+C0013,Thando,Peters,Male,32,Pretoria,Gauteng,2024-12-02
+C0014,Themba,Dlamini,Male,54,Thohoyandou,Limpopo,2024-02-15
+C0015,Emma,Khumalo,Female,27,Welkom,Free State,2023-08-06
+C0016,Layla,Jacobs,Female,65,Pretoria,Gauteng,2025-02-01
+C0017,Aiden,Naidoo,Female,23,Paarl,Western Cape,2024-01-06
+C0018,Lucas,Govender,Female,56,Mbombela,Mpumalanga,2023-06-06
+C0019,Mia,Jacobs,Female,53,Centurion,Gauteng,2024-09-02
+C0020,Ethan,Williams,Female,67,Polokwane,Limpopo,2024-11-27
+C0021,Nandi,Naidoo,Female,18,Gqeberha,Eastern Cape,2023-10-28
+C0022,Lucas,Jacobs,Male,58,Mahikeng,North West,2024-05-27
+C0023,Aisha,Govender,Male,52,Pretoria,Gauteng,2023-06-06
+C0024,Thando,Ndlovu,Male,25,Rustenburg,North West,2024-09-05
+C0025,Noah,Pillay,Male,23,Mahikeng,North West,2023-09-03
+C0026,Layla,Govender,Male,26,Mbombela,Mpumalanga,2025-02-17
+C0027,Themba,Jacobs,Female,31,Mthatha,Eastern Cape,2023-06-19
+C0028,Sipho,Khumalo,Female,46,Rustenburg,North West,2024-12-31
+C0029,Aiden,Pillay,Male,39,Welkom,Free State,2023-05-04
+C0030,Aiden,Mokoena,Male,63,Pretoria,Gauteng,2024-08-25
+C0031,Noah,Peters,Female,22,Gqeberha,Eastern Cape,2023-03-11
+C0032,Emma,Pillay,Male,64,George,Western Cape,2024-11-16
+C0033,Emma,Govender,Female,30,Mahikeng,North West,2023-09-06
+C0034,Nandi,Khumalo,Female,64,Centurion,Gauteng,2023-12-29
+C0035,Zanele,Patel,Female,69,Johannesburg,Gauteng,2023-03-04
+C0036,James,Jacobs,Female,26,Polokwane,Limpopo,2023-07-16
+C0037,Aiden,Peters,Male,46,Umhlanga,KwaZulu-Natal,2024-04-18
+C0038,Noah,Williams,Male,23,Tzaneen,Limpopo,2023-04-11
+C0039,Nandi,Ndlovu,Female,31,Rustenburg,North West,2023-06-20
+C0040,Zanele,Mokoena,Female,34,Polokwane,Limpopo,2023-06-18
+C0041,Nandi,Patel,Female,27,Mahikeng,North West,2023-10-20
+C0042,Sofia,Patel,Male,65,Pretoria,Gauteng,2023-03-01
+C0043,Emma,Jacobs,Male,21,Durban,KwaZulu-Natal,2024-08-21
+C0044,Lucas,Dlamini,Male,61,Rustenburg,North West,2025-05-21
+C0045,Sofia,Pillay,Male,57,Thohoyandou,Limpopo,2023-05-03
+C0046,James,Williams,Female,33,Soweto,Gauteng,2023-09-25
+C0047,Sipho,Ndlovu,Female,66,Pretoria,Gauteng,2024-11-18
+C0048,Leah,Smith,Male,22,Rustenburg,North West,2024-04-14
+C0049,Aisha,Molefe,Male,33,George,Western Cape,2023-05-16
+C0050,Layla,Patel,Female,57,Pietermaritzburg,KwaZulu-Natal,2024-03-24
+C0051,Layla,Mthembu,Male,26,Kimberley,Northern Cape,2024-11-14
+C0052,Layla,Naidoo,Female,36,Johannesburg,Gauteng,2025-01-30
+C0053,Themba,Jacobs,Female,34,George,Western Cape,2023-07-28
+C0054,Nandi,Peters,Female,20,Bloemfontein,Free State,2023-04-05
+C0055,Themba,Naidoo,Female,53,Pretoria,Gauteng,2024-10-14
+C0056,Ethan,Dlamini,Male,52,Mthatha,Eastern Cape,2023-01-10
+C0057,Layla,Naidoo,Female,26,Soweto,Gauteng,2024-08-19
+C0058,Noah,Molefe,Female,31,Soweto,Gauteng,2025-03-26
+C0059,Aisha,Govender,Female,57,Mthatha,Eastern Cape,2023-04-16
+C0060,Lucas,Govender,Male,44,Mbombela,Mpumalanga,2025-06-04
+C0061,Nandi,Govender,Male,35,Soweto,Gauteng,2025-03-12
+C0062,Noah,Peters,Female,32,Johannesburg,Gauteng,2024-01-27
+C0063,Sipho,Peters,Male,32,Centurion,Gauteng,2023-12-25
+C0064,Thando,Mthembu,Male,67,Pretoria,Gauteng,2024-02-13
+C0065,Layla,Nkosi,Male,25,Centurion,Gauteng,2024-11-26
+C0066,Sofia,Mthembu,Male,24,Welkom,Free State,2023-07-02
+C0067,Thando,Khumalo,Male,42,George,Western Cape,2025-01-16
+C0068,Noah,Patel,Female,18,Bloemfontein,Free State,2023-09-18
+C0069,Nandi,Dlamini,Female,57,Stellenbosch,Western Cape,2024-01-08
+C0070,Sipho,Jacobs,Female,60,Durban,KwaZulu-Natal,2025-01-07
+C0071,Sipho,Jacobs,Male,30,Richards Bay,KwaZulu-Natal,2024-12-14
+C0072,Lucas,Smith,Female,43,Richards Bay,KwaZulu-Natal,2024-11-24
+C0073,Sipho,Pillay,Female,68,Cape Town,Western Cape,2023-11-08
+C0074,Mia,Ndlovu,Male,50,George,Western Cape,2024-04-21
+C0075,Oliver,Mthembu,Female,23,Pietermaritzburg,KwaZulu-Natal,2024-11-05
+C0076,Sipho,Pillay,Male,27,Polokwane,Limpopo,2024-11-19
+C0077,Leah,Peters,Male,47,Pretoria,Gauteng,2024-05-01
+C0078,Zanele,Ndlovu,Female,33,Pietermaritzburg,KwaZulu-Natal,2025-01-05
+C0079,Ethan,Govender,Female,32,Johannesburg,Gauteng,2025-02-07
+C0080,Layla,Pillay,Male,47,Centurion,Gauteng,2023-02-21
+C0081,Amara,Jacobs,Female,66,Centurion,Gauteng,2024-11-14
+C0082,Layla,Ndlovu,Male,65,Welkom,Free State,2025-04-30
+C0083,Aiden,Peters,Female,67,Thohoyandou,Limpopo,2023-09-23
+C0084,Aiden,Mthembu,Female,22,Emalahleni,Mpumalanga,2024-10-03
+C0085,Thando,Nkosi,Male,26,Gqeberha,Eastern Cape,2023-10-06
+C0086,Mason,Patel,Male,22,Centurion,Gauteng,2024-12-11
+C0087,Mia,Khumalo,Male,31,Umhlanga,KwaZulu-Natal,2024-07-09
+C0088,Sofia,Patel,Male,66,Thohoyandou,Limpopo,2025-02-27
+C0089,Aisha,Mthembu,Female,44,Paarl,Western Cape,2023-01-07
+C0090,Aiden,Mthembu,Female,49,Stellenbosch,Western Cape,2024-05-14
+C0091,Zanele,Patel,Male,47,Soweto,Gauteng,2024-11-15
+C0092,Sofia,Smith,Male,23,Bloemfontein,Free State,2024-02-08
+C0093,Mia,Naidoo,Male,34,Gqeberha,Eastern Cape,2025-06-06
+C0094,Thando,Nkosi,Female,35,Pietermaritzburg,KwaZulu-Natal,2024-04-10
+C0095,Oliver,Ndlovu,Male,65,Emalahleni,Mpumalanga,2023-09-16
+C0096,Oliver,Govender,Male,66,George,Western Cape,2023-08-18
+C0097,Liam,Smith,Male,33,Pretoria,Gauteng,2023-07-24
+C0098,James,Ndlovu,Female,67,Johannesburg,Gauteng,2024-07-31
+C0099,Lucas,Mthembu,Male,55,Durban,KwaZulu-Natal,2025-03-07
+C0100,Zanele,Khumalo,Male,22,Soweto,Gauteng,2024-08-12
+C0101,Sipho,Peters,Male,68,Stellenbosch,Western Cape,2023-04-15
+C0102,Layla,Khumalo,Female,22,Kimberley,Northern Cape,2023-12-22
+C0103,Nandi,Peters,Female,24,George,Western Cape,2023-01-13
+C0104,Mia,Patel,Male,45,Umhlanga,KwaZulu-Natal,2024-10-12
+C0105,Layla,Govender,Female,47,Soweto,Gauteng,2024-09-22
+C0106,Aiden,Peters,Male,35,Umhlanga,KwaZulu-Natal,2023-11-27
+C0107,Mia,Smith,Female,39,Bloemfontein,Free State,2025-02-07
+C0108,Emma,Pillay,Female,69,Soweto,Gauteng,2023-07-06
+C0109,Themba,Jacobs,Male,51,Soweto,Gauteng,2024-09-02
+C0110,Nandi,Ndlovu,Male,62,Rustenburg,North West,2023-09-05
+C0111,Liam,Dlamini,Female,32,Richards Bay,KwaZulu-Natal,2024-04-03
+C0112,Sofia,Nkosi,Female,53,Pietermaritzburg,KwaZulu-Natal,2023-11-10
+C0113,Layla,Nkosi,Female,62,Paarl,Western Cape,2025-02-02
+C0114,Aiden,Dlamini,Male,38,Umhlanga,KwaZulu-Natal,2023-09-15
+C0115,James,Patel,Female,35,Pretoria,Gauteng,2023-07-16
+C0116,Sipho,Dlamini,Male,36,Mthatha,Eastern Cape,2024-09-03
+C0117,Liam,Patel,Male,35,Pretoria,Gauteng,2023-11-06
+C0118,Sipho,Patel,Male,58,Johannesburg,Gauteng,2024-07-20
+C0119,Liam,Smith,Female,48,Thohoyandou,Limpopo,2023-04-16
+C0120,Noah,Mthembu,Female,25,Umhlanga,KwaZulu-Natal,2023-07-08
+C0121,Oliver,Smith,Male,27,Thohoyandou,Limpopo,2024-05-18
+C0122,Aiden,Dlamini,Female,56,Soweto,Gauteng,2023-03-29
+C0123,Amara,Khumalo,Female,46,Stellenbosch,Western Cape,2025-03-05
+C0124,Sofia,Smith,Male,57,Centurion,Gauteng,2023-11-09
+C0125,James,Williams,Male,34,Rustenburg,North West,2025-02-20
+C0126,Lucas,Jacobs,Male,28,Gqeberha,Eastern Cape,2023-09-03
+C0127,Leah,Ndlovu,Female,20,Centurion,Gauteng,2024-12-06
+C0128,Mia,Dlamini,Male,34,Soweto,Gauteng,2024-12-20
+C0129,James,Khumalo,Male,52,Secunda,Mpumalanga,2024-08-26
+C0130,Mason,Dlamini,Male,28,Pretoria,Gauteng,2023-09-30
+C0131,Sofia,Molefe,Female,46,Secunda,Mpumalanga,2025-02-05
+C0132,Zanele,Mthembu,Female,46,Soweto,Gauteng,2024-12-17
+C0133,Thando,Smith,Female,19,Johannesburg,Gauteng,2024-03-18
+C0134,Themba,Smith,Male,66,Johannesburg,Gauteng,2025-02-22
+C0135,Mia,Molefe,Female,29,Emalahleni,Mpumalanga,2024-06-15
+C0136,Emma,Dlamini,Female,40,Upington,Northern Cape,2024-10-12
+C0137,Ethan,Peters,Male,39,Umhlanga,KwaZulu-Natal,2024-11-17
+C0138,Zanele,Peters,Male,47,Richards Bay,KwaZulu-Natal,2023-10-23
+C0139,Ethan,Govender,Female,50,Soweto,Gauteng,2023-11-28
+C0140,Layla,Ndlovu,Female,21,Polokwane,Limpopo,2024-11-04
+C0141,Emma,Williams,Female,66,Soweto,Gauteng,2024-09-29
+C0142,Mason,Molefe,Female,46,Soweto,Gauteng,2024-07-16
+C0143,Liam,Williams,Male,63,Welkom,Free State,2023-05-05
+C0144,Nandi,Dlamini,Male,25,Johannesburg,Gauteng,2024-07-19
+C0145,Mason,Ndlovu,Female,50,Durban,KwaZulu-Natal,2024-10-25
+C0146,Emma,Ndlovu,Male,47,East London,Eastern Cape,2025-05-04
+C0147,Leah,Jacobs,Male,22,Paarl,Western Cape,2023-07-15
+C0148,Amara,Mthembu,Male,36,Centurion,Gauteng,2023-12-15
+C0149,Emma,Peters,Male,46,Mthatha,Eastern Cape,2024-08-16
+C0150,Layla,Govender,Female,47,George,Western Cape,2023-12-07
+C0151,Aiden,Smith,Female,32,Rustenburg,North West,2024-12-15
+C0152,Thando,Patel,Female,63,Thohoyandou,Limpopo,2023-02-14
+C0153,Mason,Ndlovu,Male,26,Welkom,Free State,2024-01-31
+C0154,Ethan,Peters,Female,24,George,Western Cape,2025-06-09
+C0155,Mason,Khumalo,Male,22,Paarl,Western Cape,2023-01-16
+C0156,Leah,Patel,Female,59,Umhlanga,KwaZulu-Natal,2023-12-13
+C0157,Layla,Khumalo,Female,58,Soweto,Gauteng,2025-05-22
+C0158,Layla,Mokoena,Male,33,East London,Eastern Cape,2025-06-12
+C0159,Oliver,Khumalo,Male,66,East London,Eastern Cape,2023-08-21
+C0160,Lucas,Patel,Female,19,Gqeberha,Eastern Cape,2024-03-30
+C0161,Aisha,Nkosi,Female,27,Johannesburg,Gauteng,2023-10-28
+C0162,Lucas,Naidoo,Male,23,Centurion,Gauteng,2024-08-02
+C0163,Aiden,Ndlovu,Male,32,Paarl,Western Cape,2024-09-26
+C0164,Themba,Williams,Male,69,Umhlanga,KwaZulu-Natal,2024-04-15
+C0165,Layla,Naidoo,Male,46,Umhlanga,KwaZulu-Natal,2024-11-24
+C0166,Nandi,Patel,Female,47,Mahikeng,North West,2024-10-16
+C0167,Emma,Dlamini,Male,42,Polokwane,Limpopo,2024-01-29
+C0168,Sipho,Mokoena,Female,35,George,Western Cape,2024-12-17
+C0169,Emma,Peters,Female,67,Johannesburg,Gauteng,2024-09-12
+C0170,Aisha,Pillay,Male,57,Secunda,Mpumalanga,2025-04-01
+C0171,Ethan,Molefe,Male,37,Pretoria,Gauteng,2024-10-05
+C0172,Aisha,Patel,Male,23,Mbombela,Mpumalanga,2024-08-16
+C0173,Nandi,Naidoo,Male,26,Welkom,Free State,2025-02-04
+C0174,Amara,Molefe,Female,28,Emalahleni,Mpumalanga,2024-06-27
+C0175,Sipho,Patel,Female,69,Centurion,Gauteng,2025-04-05
+C0176,Aiden,Peters,Female,69,Johannesburg,Gauteng,2023-05-25
+C0177,Zanele,Mokoena,Female,52,Cape Town,Western Cape,2025-03-20
+C0178,Themba,Smith,Female,70,Soweto,Gauteng,2024-11-19
+C0179,Aiden,Ndlovu,Male,57,East London,Eastern Cape,2023-04-21
+C0180,Aiden,Williams,Male,58,Welkom,Free State,2024-09-16
+C0181,Nandi,Dlamini,Male,20,Tzaneen,Limpopo,2023-11-06
+C0182,Ethan,Dlamini,Male,52,Mahikeng,North West,2024-05-19
+C0183,Layla,Khumalo,Male,44,Centurion,Gauteng,2024-01-15
+C0184,Nandi,Mthembu,Male,62,East London,Eastern Cape,2024-09-22
+C0185,Aiden,Peters,Female,24,Richards Bay,KwaZulu-Natal,2024-03-31
+C0186,Aisha,Mokoena,Female,35,Upington,Northern Cape,2024-07-11
+C0187,Mia,Dlamini,Male,59,Johannesburg,Gauteng,2025-05-18
+C0188,Thando,Pillay,Male,68,Gqeberha,Eastern Cape,2023-02-21
+C0189,Layla,Pillay,Male,70,Cape Town,Western Cape,2025-04-29
+C0190,Mason,Govender,Male,35,Thohoyandou,Limpopo,2025-03-03
+C0191,Layla,Mthembu,Male,25,Polokwane,Limpopo,2023-05-14
+C0192,Liam,Nkosi,Male,55,Gqeberha,Eastern Cape,2023-05-15
+C0193,Noah,Naidoo,Female,51,Pietermaritzburg,KwaZulu-Natal,2023-09-29
+C0194,Mia,Govender,Female,50,Johannesburg,Gauteng,2024-05-02
+C0195,Aiden,Smith,Male,64,Paarl,Western Cape,2024-05-30
+C0196,Sipho,Ndlovu,Male,21,Secunda,Mpumalanga,2024-06-17
+C0197,Ethan,Ndlovu,Female,22,Upington,Northern Cape,2024-03-12
+C0198,Mason,Dlamini,Male,35,Welkom,Free State,2024-09-14
+C0199,Leah,Jacobs,Female,47,George,Western Cape,2024-01-26
+C0200,Ethan,Peters,Male,45,Paarl,Western Cape,2023-04-12
+C0201,Thando,Peters,Female,43,Pietermaritzburg,KwaZulu-Natal,2024-02-28
+C0202,Nandi,Nkosi,Female,41,Durban,KwaZulu-Natal,2023-11-17
+C0203,Oliver,Peters,Male,23,Mahikeng,North West,2023-03-10
+C0204,Mason,Jacobs,Male,55,Umhlanga,KwaZulu-Natal,2025-04-11
+C0205,Ethan,Khumalo,Female,60,Mahikeng,North West,2024-11-17
+C0206,Noah,Mthembu,Female,40,Mahikeng,North West,2025-06-07
+C0207,Emma,Pillay,Male,40,Pretoria,Gauteng,2023-06-08
+C0208,Themba,Smith,Male,69,Thohoyandou,Limpopo,2023-04-28
+C0209,Themba,Mokoena,Male,35,Durban,KwaZulu-Natal,2024-09-15
+C0210,Aisha,Mokoena,Male,27,East London,Eastern Cape,2023-12-14
+C0211,Mason,Patel,Male,23,Paarl,Western Cape,2023-03-13
+C0212,Nandi,Ndlovu,Female,28,Mbombela,Mpumalanga,2024-01-21
+C0213,Sofia,Smith,Male,21,Umhlanga,KwaZulu-Natal,2025-03-06
+C0214,Oliver,Mthembu,Female,60,Johannesburg,Gauteng,2024-11-21
+C0215,Themba,Pillay,Male,40,Richards Bay,KwaZulu-Natal,2024-02-29
+C0216,Sofia,Ndlovu,Female,20,Umhlanga,KwaZulu-Natal,2024-11-25
+C0217,James,Mthembu,Male,67,Johannesburg,Gauteng,2023-01-08
+C0218,Thando,Dlamini,Male,49,Soweto,Gauteng,2023-10-24
+C0219,Zanele,Jacobs,Male,50,Mbombela,Mpumalanga,2023-05-13
+C0220,Zanele,Peters,Male,45,George,Western Cape,2023-03-15
+C0221,Thando,Smith,Female,54,Johannesburg,Gauteng,2025-06-01
+C0222,Ethan,Khumalo,Male,38,Richards Bay,KwaZulu-Natal,2023-10-24
+C0223,Aisha,Dlamini,Female,24,Centurion,Gauteng,2025-05-01
+C0224,Oliver,Khumalo,Female,65,Centurion,Gauteng,2024-06-20
+C0225,Lucas,Dlamini,Male,51,Umhlanga,KwaZulu-Natal,2025-03-08
+C0226,Mason,Pillay,Male,27,George,Western Cape,2023-12-26
+C0227,Mason,Govender,Male,29,Pretoria,Gauteng,2024-09-08
+C0228,Sofia,Govender,Female,61,Mahikeng,North West,2024-04-20
+C0229,Thando,Naidoo,Female,22,Mahikeng,North West,2025-06-03
+C0230,Themba,Smith,Male,40,Umhlanga,KwaZulu-Natal,2025-03-26
+C0231,Mia,Mokoena,Male,41,George,Western Cape,2024-04-17
+C0232,Oliver,Smith,Female,47,Polokwane,Limpopo,2024-10-22
+C0233,Sofia,Williams,Male,38,Cape Town,Western Cape,2024-04-05
+C0234,Mia,Dlamini,Female,63,Stellenbosch,Western Cape,2023-03-05
+C0235,Aiden,Patel,Female,46,Pretoria,Gauteng,2023-02-10
+C0236,Aisha,Molefe,Female,42,Stellenbosch,Western Cape,2024-01-08
+C0237,Leah,Mokoena,Female,22,Umhlanga,KwaZulu-Natal,2024-11-26
+C0238,Themba,Patel,Male,39,Richards Bay,KwaZulu-Natal,2023-10-18
+C0239,Sipho,Williams,Female,26,Pretoria,Gauteng,2023-12-25
+C0240,Layla,Khumalo,Female,70,Cape Town,Western Cape,2023-11-14
+C0241,Nandi,Jacobs,Female,19,Johannesburg,Gauteng,2024-10-23
+C0242,Thando,Govender,Female,30,Pietermaritzburg,KwaZulu-Natal,2023-08-08
+C0243,Oliver,Mthembu,Male,50,Pretoria,Gauteng,2023-06-08
+C0244,Noah,Williams,Female,67,Secunda,Mpumalanga,2024-06-23
+C0245,Lucas,Naidoo,Male,64,Paarl,Western Cape,2023-06-07
+C0246,Aiden,Ndlovu,Female,66,Richards Bay,KwaZulu-Natal,2024-01-09
+C0247,Layla,Pillay,Female,69,Emalahleni,Mpumalanga,2023-08-28
+C0248,Sofia,Ndlovu,Female,67,Mbombela,Mpumalanga,2024-01-12
+C0249,Amara,Khumalo,Male,70,Centurion,Gauteng,2024-05-29
+C0250,Themba,Mokoena,Female,41,Pretoria,Gauteng,2025-06-12
+C0251,Amara,Peters,Male,36,Cape Town,Western Cape,2024-12-29
+C0252,Mia,Molefe,Male,45,Pretoria,Gauteng,2023-10-07
+C0253,Mia,Molefe,Female,19,Pretoria,Gauteng,2025-04-16
+C0254,Aisha,Pillay,Female,23,Richards Bay,KwaZulu-Natal,2024-05-29
+C0255,Ethan,Peters,Female,68,Durban,KwaZulu-Natal,2023-11-23
+C0256,Emma,Patel,Male,66,Johannesburg,Gauteng,2023-10-21
+C0257,Liam,Molefe,Male,19,East London,Eastern Cape,2024-09-22
+C0258,Leah,Jacobs,Female,25,Pretoria,Gauteng,2024-07-15
+C0259,Ethan,Mokoena,Male,44,Mbombela,Mpumalanga,2023-11-05
+C0260,Oliver,Dlamini,Female,56,Mthatha,Eastern Cape,2024-04-13
+C0261,Mason,Mthembu,Female,18,Stellenbosch,Western Cape,2025-01-05
+C0262,Nandi,Naidoo,Male,51,Stellenbosch,Western Cape,2024-08-07
+C0263,Layla,Jacobs,Male,42,Kimberley,Northern Cape,2024-06-22
+C0264,Zanele,Nkosi,Female,65,Bloemfontein,Free State,2024-10-12
+C0265,Aiden,Patel,Male,67,Johannesburg,Gauteng,2023-12-20
+C0266,Noah,Nkosi,Female,70,George,Western Cape,2023-05-17
+C0267,Emma,Williams,Male,69,Mthatha,Eastern Cape,2024-04-20
+C0268,Sipho,Pillay,Male,68,Centurion,Gauteng,2023-02-07
+C0269,Sipho,Jacobs,Female,70,Johannesburg,Gauteng,2023-11-20
+C0270,James,Mthembu,Female,67,George,Western Cape,2023-02-07
+C0271,Ethan,Govender,Female,45,Soweto,Gauteng,2023-10-07
+C0272,Thando,Naidoo,Female,62,Welkom,Free State,2024-01-31
+C0273,Oliver,Patel,Female,23,George,Western Cape,2025-03-31
+C0274,Sipho,Nkosi,Male,23,Pietermaritzburg,KwaZulu-Natal,2024-07-12
+C0275,Mia,Smith,Female,28,Umhlanga,KwaZulu-Natal,2023-11-10
+C0276,Noah,Patel,Female,57,East London,Eastern Cape,2024-04-02
+C0277,Noah,Dlamini,Female,41,Upington,Northern Cape,2024-10-16
+C0278,Mason,Peters,Female,20,Stellenbosch,Western Cape,2023-02-01
+C0279,Aisha,Nkosi,Female,54,Pretoria,Gauteng,2025-03-08
+C0280,Mia,Nkosi,Female,46,Pretoria,Gauteng,2024-11-26
+C0281,Amara,Nkosi,Female,38,Secunda,Mpumalanga,2023-05-21
+C0282,Liam,Patel,Male,49,Gqeberha,Eastern Cape,2023-04-27
+C0283,Themba,Patel,Female,31,Cape Town,Western Cape,2023-09-26
+C0284,Emma,Pillay,Male,26,Upington,Northern Cape,2024-12-11
+C0285,Mia,Dlamini,Female,60,Thohoyandou,Limpopo,2023-06-26
+C0286,Layla,Mthembu,Female,28,Durban,KwaZulu-Natal,2024-07-17
+C0287,Lucas,Govender,Female,50,Mthatha,Eastern Cape,2024-10-15
+C0288,Mason,Pillay,Female,19,Pretoria,Gauteng,2025-03-22
+C0289,Layla,Naidoo,Male,22,Umhlanga,KwaZulu-Natal,2024-04-23
+C0290,Nandi,Govender,Female,70,Richards Bay,KwaZulu-Natal,2024-06-22
+C0291,Oliver,Ndlovu,Female,61,Stellenbosch,Western Cape,2023-11-21
+C0292,Layla,Williams,Male,67,Stellenbosch,Western Cape,2025-06-18
+C0293,Noah,Peters,Male,51,Mahikeng,North West,2024-05-29
+C0294,Thando,Molefe,Male,40,Pretoria,Gauteng,2023-06-15
+C0295,Oliver,Mthembu,Male,58,Mahikeng,North West,2025-05-16
+C0296,Sipho,Smith,Male,50,Mahikeng,North West,2023-05-09
+C0297,Mason,Naidoo,Female,54,Mthatha,Eastern Cape,2024-08-17
+C0298,Noah,Williams,Female,59,Johannesburg,Gauteng,2023-03-25
+C0299,Liam,Ndlovu,Female,59,Centurion,Gauteng,2024-09-24
+C0300,Zanele,Mthembu,Female,22,Mahikeng,North West,2023-09-08
+C0301,Nandi,Ndlovu,Female,31,Gqeberha,Eastern Cape,2024-03-26
+C0302,Thando,Patel,Female,43,Pietermaritzburg,KwaZulu-Natal,2023-11-17
+C0303,Layla,Dlamini,Female,33,Soweto,Gauteng,2024-06-11
+C0304,Aiden,Naidoo,Male,21,Umhlanga,KwaZulu-Natal,2024-04-05
+C0305,Leah,Khumalo,Male,28,Centurion,Gauteng,2025-06-03
+C0306,Thando,Pillay,Male,49,Tzaneen,Limpopo,2025-01-08
+C0307,Sipho,Ndlovu,Male,23,Upington,Northern Cape,2024-05-25
+C0308,James,Smith,Female,21,Mahikeng,North West,2023-09-04
+C0309,Emma,Mthembu,Male,24,Centurion,Gauteng,2024-09-03
+C0310,Aisha,Govender,Female,41,Umhlanga,KwaZulu-Natal,2025-01-14
+C0311,Layla,Pillay,Female,53,Johannesburg,Gauteng,2024-08-06
+C0312,Mia,Govender,Female,70,Centurion,Gauteng,2024-05-31
+C0313,Ethan,Khumalo,Female,68,Kimberley,Northern Cape,2023-05-12
+C0314,Mason,Pillay,Female,50,Upington,Northern Cape,2025-02-12
+C0315,Thando,Govender,Female,51,Johannesburg,Gauteng,2023-05-21
+C0316,Leah,Nkosi,Male,43,Pietermaritzburg,KwaZulu-Natal,2023-12-02
+C0317,Thando,Jacobs,Female,63,Upington,Northern Cape,2024-08-30
+C0318,Liam,Nkosi,Female,61,Paarl,Western Cape,2025-04-15
+C0319,Sipho,Govender,Male,56,Centurion,Gauteng,2024-08-20
+C0320,Noah,Smith,Female,28,Pietermaritzburg,KwaZulu-Natal,2025-01-08
+C0321,Aiden,Mokoena,Male,30,Paarl,Western Cape,2023-06-01
+C0322,Mason,Khumalo,Male,44,Soweto,Gauteng,2024-03-04
+C0323,Noah,Patel,Male,51,Paarl,Western Cape,2025-06-12
+C0324,Emma,Jacobs,Female,38,Soweto,Gauteng,2024-11-09
+C0325,Thando,Jacobs,Female,61,Mahikeng,North West,2024-06-29
+C0326,Themba,Smith,Female,30,Secunda,Mpumalanga,2024-11-28
+C0327,Sipho,Pillay,Female,67,Mahikeng,North West,2024-07-25
+C0328,Emma,Nkosi,Female,40,Pretoria,Gauteng,2024-12-07
+C0329,Ethan,Smith,Female,43,George,Western Cape,2023-10-22
+C0330,Noah,Mthembu,Male,40,Polokwane,Limpopo,2023-10-25
+C0331,Emma,Pillay,Male,70,Mahikeng,North West,2025-02-04
+C0332,Ethan,Smith,Male,33,George,Western Cape,2023-05-21
+C0333,Aiden,Mokoena,Male,44,Pretoria,Gauteng,2024-10-15
+C0334,Mason,Mokoena,Male,44,Richards Bay,KwaZulu-Natal,2023-04-13
+C0335,James,Govender,Female,38,East London,Eastern Cape,2024-05-03
+C0336,Oliver,Williams,Male,52,Johannesburg,Gauteng,2025-02-26
+C0337,Nandi,Molefe,Male,20,Mbombela,Mpumalanga,2023-06-29
+C0338,Emma,Naidoo,Female,20,Upington,Northern Cape,2025-03-17
+C0339,Sipho,Ndlovu,Female,26,Johannesburg,Gauteng,2023-12-10
+C0340,James,Govender,Male,39,Thohoyandou,Limpopo,2023-10-07
+C0341,Themba,Patel,Male,18,Centurion,Gauteng,2024-10-25
+C0342,James,Naidoo,Female,70,Emalahleni,Mpumalanga,2024-08-04
+C0343,Zanele,Williams,Male,29,Umhlanga,KwaZulu-Natal,2023-03-30
+C0344,Aiden,Mokoena,Female,42,Upington,Northern Cape,2023-11-28
+C0345,Sipho,Smith,Male,34,Soweto,Gauteng,2023-12-04
+C0346,Noah,Williams,Male,47,Mthatha,Eastern Cape,2023-08-30
+C0347,Amara,Molefe,Female,62,Richards Bay,KwaZulu-Natal,2024-12-03
+C0348,Leah,Pillay,Male,26,Soweto,Gauteng,2024-01-12
+C0349,Leah,Nkosi,Female,62,Richards Bay,KwaZulu-Natal,2025-02-04
+C0350,Layla,Govender,Male,66,Paarl,Western Cape,2025-02-14
+C0351,Mia,Jacobs,Female,22,Johannesburg,Gauteng,2024-06-22
+C0352,Layla,Molefe,Male,54,Bloemfontein,Free State,2023-03-05
+C0353,Amara,Ndlovu,Male,61,Stellenbosch,Western Cape,2023-12-02
+C0354,Amara,Ndlovu,Male,47,Centurion,Gauteng,2023-04-04
+C0355,Sofia,Mokoena,Female,61,Centurion,Gauteng,2024-04-12
+C0356,Zanele,Mthembu,Male,65,Tzaneen,Limpopo,2023-01-23
+C0357,Nandi,Nkosi,Male,52,Johannesburg,Gauteng,2023-02-16
+C0358,Noah,Mthembu,Female,29,Kimberley,Northern Cape,2024-04-28
+C0359,Nandi,Nkosi,Female,46,Secunda,Mpumalanga,2025-01-16
+C0360,Oliver,Williams,Male,59,Thohoyandou,Limpopo,2024-01-20
+C0361,Layla,Khumalo,Male,64,Polokwane,Limpopo,2023-07-02
+C0362,Liam,Mthembu,Female,61,Kimberley,Northern Cape,2025-02-13
+C0363,Zanele,Peters,Male,33,East London,Eastern Cape,2024-06-28
+C0364,James,Molefe,Male,20,Pietermaritzburg,KwaZulu-Natal,2023-10-10
+C0365,Liam,Pillay,Male,22,Thohoyandou,Limpopo,2024-09-21
+C0366,Leah,Williams,Male,33,Johannesburg,Gauteng,2024-04-02
+C0367,Aiden,Jacobs,Male,66,Emalahleni,Mpumalanga,2024-03-25
+C0368,Amara,Mthembu,Male,70,Polokwane,Limpopo,2023-05-24
+C0369,Leah,Govender,Female,33,Welkom,Free State,2024-08-14
+C0370,Amara,Pillay,Female,37,Pietermaritzburg,KwaZulu-Natal,2024-11-07
+C0371,Nandi,Jacobs,Female,21,Pretoria,Gauteng,2024-10-03
+C0372,Amara,Nkosi,Female,44,Upington,Northern Cape,2025-03-15
+C0373,Layla,Ndlovu,Male,32,Centurion,Gauteng,2023-07-08
+C0374,Mia,Molefe,Male,53,Pietermaritzburg,KwaZulu-Natal,2025-04-05
+C0375,Amara,Naidoo,Female,33,Richards Bay,KwaZulu-Natal,2024-07-24
+C0376,Oliver,Molefe,Female,41,Soweto,Gauteng,2024-10-24
+C0377,Themba,Khumalo,Male,22,Pretoria,Gauteng,2023-02-22
+C0378,James,Peters,Female,37,Pretoria,Gauteng,2024-05-05
+C0379,James,Patel,Male,65,Rustenburg,North West,2023-08-05
+C0380,Leah,Patel,Male,43,Upington,Northern Cape,2023-09-06
+C0381,Sipho,Khumalo,Female,52,Welkom,Free State,2025-03-05
+C0382,Aisha,Jacobs,Female,47,East London,Eastern Cape,2023-09-25
+C0383,Thando,Molefe,Male,41,Centurion,Gauteng,2025-02-18
+C0384,Aiden,Patel,Male,19,Durban,KwaZulu-Natal,2024-07-30
+C0385,Mason,Pillay,Female,32,Centurion,Gauteng,2023-10-30
+C0386,Layla,Williams,Female,34,Pietermaritzburg,KwaZulu-Natal,2024-05-26
+C0387,Emma,Ndlovu,Male,64,Emalahleni,Mpumalanga,2025-01-10
+C0388,Layla,Ndlovu,Male,52,Mbombela,Mpumalanga,2023-05-24
+C0389,Noah,Peters,Male,70,Kimberley,Northern Cape,2024-06-20
+C0390,Mason,Peters,Male,22,Gqeberha,Eastern Cape,2024-02-27
+C0391,Amara,Ndlovu,Female,21,Gqeberha,Eastern Cape,2023-08-12
+C0392,Emma,Mokoena,Male,52,Paarl,Western Cape,2024-11-06
+C0393,Amara,Patel,Female,52,Cape Town,Western Cape,2023-01-18
+C0394,Nandi,Govender,Male,24,Kimberley,Northern Cape,2024-05-29
+C0395,James,Smith,Female,70,Bloemfontein,Free State,2023-09-04
+C0396,Aisha,Khumalo,Female,54,Richards Bay,KwaZulu-Natal,2023-03-22
+C0397,Oliver,Williams,Male,23,Pretoria,Gauteng,2023-11-04
+C0398,Emma,Mokoena,Male,62,Richards Bay,KwaZulu-Natal,2024-07-19
+C0399,Nandi,Williams,Female,54,Centurion,Gauteng,2025-05-15
+C0400,Noah,Pillay,Male,62,Kimberley,Northern Cape,2024-06-24
+C0401,Noah,Molefe,Male,61,Welkom,Free State,2023-10-05
+C0402,Thando,Mokoena,Male,55,Rustenburg,North West,2023-07-03
+C0403,Sipho,Naidoo,Male,54,Centurion,Gauteng,2023-03-20
+C0404,Layla,Nkosi,Female,66,Thohoyandou,Limpopo,2024-11-24
+C0405,Oliver,Jacobs,Female,21,Secunda,Mpumalanga,2025-01-11
+C0406,Oliver,Nkosi,Female,67,Pretoria,Gauteng,2025-05-08
+C0407,Mia,Ndlovu,Male,40,Umhlanga,KwaZulu-Natal,2025-03-13
+C0408,Lucas,Williams,Female,23,Paarl,Western Cape,2024-03-18
+C0409,Aiden,Patel,Male,23,Emalahleni,Mpumalanga,2025-03-28
+C0410,Mason,Patel,Female,38,Centurion,Gauteng,2024-12-29
+C0411,Sipho,Ndlovu,Female,66,Durban,KwaZulu-Natal,2023-01-06
+C0412,Lucas,Khumalo,Female,53,Pretoria,Gauteng,2023-03-31
+C0413,Liam,Dlamini,Female,53,Paarl,Western Cape,2023-04-16
+C0414,Zanele,Mokoena,Female,44,Soweto,Gauteng,2025-06-03
+C0415,Layla,Molefe,Male,54,Durban,KwaZulu-Natal,2025-01-12
+C0416,Mason,Mthembu,Female,35,Paarl,Western Cape,2023-06-23
+C0417,Nandi,Mthembu,Female,37,Cape Town,Western Cape,2023-06-21
+C0418,Themba,Pillay,Female,56,Cape Town,Western Cape,2024-01-05
+C0419,Mason,Mthembu,Male,43,Paarl,Western Cape,2023-04-20
+C0420,Thando,Ndlovu,Female,45,Richards Bay,KwaZulu-Natal,2025-04-03
+C0421,Mason,Mthembu,Female,56,Tzaneen,Limpopo,2024-08-31
+C0422,Thando,Naidoo,Female,38,Rustenburg,North West,2024-05-05
+C0423,Aiden,Nkosi,Female,35,Centurion,Gauteng,2024-08-12
+C0424,Ethan,Molefe,Male,55,Thohoyandou,Limpopo,2024-01-09
+C0425,Layla,Mokoena,Female,63,Kimberley,Northern Cape,2024-11-29
+C0426,Oliver,Peters,Female,61,Soweto,Gauteng,2025-05-01
+C0427,Themba,Williams,Male,63,George,Western Cape,2023-09-05
+C0428,Mia,Smith,Female,55,Richards Bay,KwaZulu-Natal,2023-03-17
+C0429,Noah,Govender,Female,62,Richards Bay,KwaZulu-Natal,2024-07-10
+C0430,Aiden,Williams,Female,28,Bloemfontein,Free State,2023-04-22
+C0431,Zanele,Govender,Female,68,Gqeberha,Eastern Cape,2024-07-30
+C0432,Themba,Pillay,Male,46,Durban,KwaZulu-Natal,2023-04-11
+C0433,Sofia,Patel,Male,40,Richards Bay,KwaZulu-Natal,2025-03-01
+C0434,Sipho,Khumalo,Male,25,Upington,Northern Cape,2023-04-18
+C0435,Aisha,Mthembu,Female,47,Tzaneen,Limpopo,2023-05-26
+C0436,Aisha,Ndlovu,Male,46,Secunda,Mpumalanga,2024-05-09
+C0437,Oliver,Mthembu,Male,69,East London,Eastern Cape,2023-11-23
+C0438,Thando,Williams,Male,61,Gqeberha,Eastern Cape,2025-05-19
+C0439,Amara,Naidoo,Male,39,Tzaneen,Limpopo,2023-09-07
+C0440,Zanele,Williams,Male,29,Paarl,Western Cape,2023-08-26
+C0441,Liam,Patel,Male,46,East London,Eastern Cape,2024-02-10
+C0442,James,Pillay,Female,66,Paarl,Western Cape,2023-01-05
+C0443,Ethan,Govender,Male,41,Gqeberha,Eastern Cape,2024-08-14
+C0444,Themba,Williams,Female,51,Richards Bay,KwaZulu-Natal,2023-04-27
+C0445,Zanele,Smith,Female,55,Mahikeng,North West,2024-09-03
+C0446,Mia,Smith,Male,70,Soweto,Gauteng,2025-05-15
+C0447,Sofia,Dlamini,Male,38,East London,Eastern Cape,2024-09-21
+C0448,Lucas,Nkosi,Male,50,Soweto,Gauteng,2023-04-30
+C0449,Zanele,Khumalo,Male,49,Pietermaritzburg,KwaZulu-Natal,2024-08-11
+C0450,Lucas,Jacobs,Male,49,Mthatha,Eastern Cape,2024-10-22
+C0451,Mia,Smith,Male,40,Pretoria,Gauteng,2023-11-19
+C0452,James,Peters,Female,53,Mahikeng,North West,2023-05-20
+C0453,Emma,Khumalo,Female,49,Paarl,Western Cape,2024-02-23
+C0454,Aiden,Mthembu,Male,35,Johannesburg,Gauteng,2025-03-25
+C0455,Mia,Smith,Female,53,Soweto,Gauteng,2023-06-22
+C0456,Layla,Peters,Female,52,Cape Town,Western Cape,2023-10-02
+C0457,Mia,Jacobs,Male,45,Polokwane,Limpopo,2025-02-17
+C0458,Noah,Ndlovu,Female,40,Pretoria,Gauteng,2023-11-01
+C0459,Ethan,Govender,Male,31,Polokwane,Limpopo,2024-03-25
+C0460,Aisha,Peters,Female,28,Tzaneen,Limpopo,2024-12-06
+C0461,James,Govender,Male,54,Stellenbosch,Western Cape,2025-04-13
+C0462,Layla,Naidoo,Female,63,Umhlanga,KwaZulu-Natal,2024-09-03
+C0463,Amara,Molefe,Male,26,Soweto,Gauteng,2025-05-28
+C0464,Themba,Peters,Male,62,Mahikeng,North West,2023-03-02
+C0465,Thando,Peters,Male,66,Polokwane,Limpopo,2023-05-30
+C0466,Mason,Smith,Female,58,Thohoyandou,Limpopo,2024-05-16
+C0467,Oliver,Khumalo,Female,62,Richards Bay,KwaZulu-Natal,2023-03-19
+C0468,Emma,Nkosi,Male,67,Mahikeng,North West,2024-04-10
+C0469,Mia,Williams,Female,22,Polokwane,Limpopo,2025-01-18
+C0470,Nandi,Peters,Male,49,Emalahleni,Mpumalanga,2023-08-12
+C0471,Layla,Smith,Male,54,Soweto,Gauteng,2023-12-12
+C0472,Noah,Mokoena,Male,58,Thohoyandou,Limpopo,2024-11-29
+C0473,Ethan,Molefe,Male,46,Emalahleni,Mpumalanga,2023-01-17
+C0474,Mason,Molefe,Female,28,Richards Bay,KwaZulu-Natal,2023-07-27
+C0475,Aisha,Mthembu,Male,41,Welkom,Free State,2023-04-06
+C0476,Noah,Khumalo,Female,64,Mthatha,Eastern Cape,2023-06-19
+C0477,Oliver,Patel,Male,18,Gqeberha,Eastern Cape,2024-03-15
+C0478,Sofia,Pillay,Female,18,Johannesburg,Gauteng,2023-05-16
+C0479,Ethan,Peters,Female,62,Soweto,Gauteng,2025-04-16
+C0480,Zanele,Dlamini,Male,24,Johannesburg,Gauteng,2023-08-23
+C0481,Zanele,Govender,Male,59,Umhlanga,KwaZulu-Natal,2023-05-21
+C0482,Amara,Smith,Male,57,Kimberley,Northern Cape,2023-03-12
+C0483,James,Williams,Male,44,East London,Eastern Cape,2023-12-26
+C0484,James,Dlamini,Male,26,Paarl,Western Cape,2025-05-30
+C0485,Zanele,Nkosi,Female,38,Secunda,Mpumalanga,2025-01-17
+C0486,Oliver,Pillay,Female,67,Mbombela,Mpumalanga,2023-10-11
+C0487,Sipho,Pillay,Male,65,Rustenburg,North West,2025-05-18
+C0488,Aiden,Ndlovu,Female,25,Durban,KwaZulu-Natal,2025-03-13
+C0489,Liam,Nkosi,Female,26,Johannesburg,Gauteng,2024-06-24
+C0490,Layla,Williams,Male,66,Richards Bay,KwaZulu-Natal,2024-01-10
+C0491,Sofia,Dlamini,Male,34,Durban,KwaZulu-Natal,2023-01-18
+C0492,Zanele,Jacobs,Female,58,Johannesburg,Gauteng,2025-03-19
+C0493,Zanele,Dlamini,Male,35,East London,Eastern Cape,2024-03-09
+C0494,James,Govender,Male,52,Johannesburg,Gauteng,2024-06-07
+C0495,Nandi,Patel,Male,21,Durban,KwaZulu-Natal,2023-11-14
+C0496,Mia,Smith,Male,37,Centurion,Gauteng,2023-04-29
+C0497,Lucas,Dlamini,Male,63,Mthatha,Eastern Cape,2025-01-28
+C0498,Emma,Nkosi,Female,28,Johannesburg,Gauteng,2023-06-17
+C0499,Ethan,Govender,Male,39,Umhlanga,KwaZulu-Natal,2025-01-20
+C0500,Oliver,Mthembu,Male,49,Thohoyandou,Limpopo,2024-06-20
+C0501,Emma,Peters,Male,41,Umhlanga,KwaZulu-Natal,2023-02-26
+C0502,Ethan,Pillay,Male,20,Johannesburg,Gauteng,2024-08-10
+C0503,Noah,Ndlovu,Female,42,Polokwane,Limpopo,2023-09-08
+C0504,Noah,Jacobs,Female,32,Rustenburg,North West,2025-05-28
+C0505,Thando,Mthembu,Male,54,Richards Bay,KwaZulu-Natal,2025-01-07
+C0506,Aiden,Govender,Male,43,Durban,KwaZulu-Natal,2023-07-03
+C0507,Sipho,Govender,Female,38,Centurion,Gauteng,2025-06-05
+C0508,Aisha,Pillay,Female,54,Centurion,Gauteng,2023-01-09
+C0509,Aiden,Ndlovu,Female,55,Secunda,Mpumalanga,2024-09-29
+C0510,Layla,Govender,Male,27,Kimberley,Northern Cape,2025-01-20
+C0511,Aiden,Jacobs,Female,58,Centurion,Gauteng,2023-01-25
+C0512,Liam,Govender,Female,65,Polokwane,Limpopo,2023-12-10
+C0513,Amara,Pillay,Female,49,Gqeberha,Eastern Cape,2023-07-30
+C0514,Themba,Dlamini,Male,32,Rustenburg,North West,2024-12-29
+C0515,Aisha,Ndlovu,Male,55,Welkom,Free State,2024-12-18
+C0516,Zanele,Dlamini,Male,45,Pretoria,Gauteng,2024-10-14
+C0517,Sipho,Mthembu,Female,69,Gqeberha,Eastern Cape,2023-08-31
+C0518,Mia,Mthembu,Male,22,Umhlanga,KwaZulu-Natal,2023-11-22
+C0519,Sofia,Dlamini,Male,24,Rustenburg,North West,2025-03-09
+C0520,Nandi,Dlamini,Female,67,Centurion,Gauteng,2023-11-18
+C0521,Themba,Peters,Male,23,Soweto,Gauteng,2024-04-19
+C0522,Leah,Mokoena,Male,38,Soweto,Gauteng,2025-04-26
+C0523,Zanele,Jacobs,Male,61,Pretoria,Gauteng,2023-12-31
+C0524,Zanele,Peters,Female,53,Pretoria,Gauteng,2023-02-01
+C0525,Mia,Dlamini,Male,25,Mbombela,Mpumalanga,2023-04-07
+C0526,James,Peters,Female,41,Pretoria,Gauteng,2023-05-14
+C0527,Sofia,Smith,Female,70,Mthatha,Eastern Cape,2023-03-28
+C0528,Mia,Govender,Male,23,Johannesburg,Gauteng,2023-07-22
+C0529,Noah,Ndlovu,Male,28,Welkom,Free State,2023-05-06
+C0530,Zanele,Ndlovu,Male,42,Mahikeng,North West,2025-04-21
+C0531,James,Molefe,Male,35,Gqeberha,Eastern Cape,2023-12-29
+C0532,Leah,Smith,Male,59,Pretoria,Gauteng,2023-02-05
+C0533,Emma,Mokoena,Male,35,Centurion,Gauteng,2024-07-17
+C0534,Amara,Pillay,Male,42,Richards Bay,KwaZulu-Natal,2023-07-24
+C0535,Layla,Govender,Female,40,Emalahleni,Mpumalanga,2024-05-06
+C0536,Themba,Naidoo,Male,38,Welkom,Free State,2024-02-02
+C0537,Themba,Mokoena,Female,51,Cape Town,Western Cape,2025-04-10
+C0538,Ethan,Pillay,Male,35,Pietermaritzburg,KwaZulu-Natal,2023-06-13
+C0539,Aiden,Smith,Female,40,Cape Town,Western Cape,2025-02-21
+C0540,Aiden,Smith,Female,69,Rustenburg,North West,2023-06-30
+C0541,Liam,Patel,Female,54,Emalahleni,Mpumalanga,2024-08-28
+C0542,Emma,Jacobs,Female,29,Stellenbosch,Western Cape,2025-05-06
+C0543,Aiden,Smith,Male,19,Cape Town,Western Cape,2023-02-27
+C0544,Leah,Pillay,Male,39,Cape Town,Western Cape,2023-12-06
+C0545,Liam,Naidoo,Male,67,East London,Eastern Cape,2023-03-02
+C0546,Aisha,Patel,Female,55,Soweto,Gauteng,2023-03-16
+C0547,Mason,Naidoo,Female,68,Soweto,Gauteng,2023-11-27
+C0548,Thando,Naidoo,Female,32,East London,Eastern Cape,2024-10-26
+C0549,Sipho,Patel,Female,26,Gqeberha,Eastern Cape,2024-01-23
+C0550,Sofia,Khumalo,Male,29,Johannesburg,Gauteng,2024-12-19
+C0551,Sofia,Dlamini,Female,27,Stellenbosch,Western Cape,2024-10-16
+C0552,Aisha,Nkosi,Male,58,Durban,KwaZulu-Natal,2023-09-01
+C0553,Thando,Ndlovu,Male,34,Bloemfontein,Free State,2025-04-21
+C0554,Themba,Govender,Male,64,Johannesburg,Gauteng,2023-12-25
+C0555,Nandi,Naidoo,Female,49,Centurion,Gauteng,2024-03-24
+C0556,Zanele,Dlamini,Female,68,Welkom,Free State,2024-07-13
+C0557,Aiden,Naidoo,Female,22,Tzaneen,Limpopo,2025-02-15
+C0558,Liam,Nkosi,Female,24,Mbombela,Mpumalanga,2023-10-29
+C0559,Lucas,Patel,Male,53,Pretoria,Gauteng,2024-01-20
+C0560,Leah,Smith,Female,63,Rustenburg,North West,2023-12-13
+C0561,Nandi,Naidoo,Male,24,Pretoria,Gauteng,2024-09-13
+C0562,Layla,Patel,Female,60,Pietermaritzburg,KwaZulu-Natal,2024-02-24
+C0563,Noah,Khumalo,Female,27,Pretoria,Gauteng,2023-04-09
+C0564,Oliver,Mthembu,Female,30,Johannesburg,Gauteng,2024-03-13
+C0565,Sipho,Dlamini,Female,25,Pretoria,Gauteng,2023-06-24
+C0566,Emma,Molefe,Female,23,Richards Bay,KwaZulu-Natal,2024-04-27
+C0567,Aisha,Molefe,Female,41,East London,Eastern Cape,2023-07-09
+C0568,Mia,Ndlovu,Female,32,Johannesburg,Gauteng,2023-09-27
+C0569,Mason,Govender,Male,23,Tzaneen,Limpopo,2023-03-05
+C0570,Sofia,Pillay,Male,42,Mthatha,Eastern Cape,2024-02-28
+C0571,Emma,Smith,Male,48,Thohoyandou,Limpopo,2024-07-02
+C0572,Noah,Jacobs,Male,25,Centurion,Gauteng,2025-05-24
+C0573,Lucas,Pillay,Male,26,Mahikeng,North West,2023-06-27
+C0574,Nandi,Pillay,Male,56,Johannesburg,Gauteng,2024-11-30
+C0575,Zanele,Jacobs,Female,53,Johannesburg,Gauteng,2023-03-31
+C0576,Mia,Molefe,Male,68,Umhlanga,KwaZulu-Natal,2024-06-16
+C0577,Nandi,Dlamini,Female,27,Mthatha,Eastern Cape,2024-06-19
+C0578,Sofia,Govender,Male,68,Johannesburg,Gauteng,2023-04-19
+C0579,Nandi,Mthembu,Female,59,Soweto,Gauteng,2025-06-17
+C0580,Lucas,Mthembu,Female,27,Paarl,Western Cape,2023-02-08
+C0581,Zanele,Molefe,Female,62,Paarl,Western Cape,2023-02-09
+C0582,Aisha,Mokoena,Female,70,Centurion,Gauteng,2023-10-03
+C0583,Emma,Peters,Male,32,Emalahleni,Mpumalanga,2023-10-15
+C0584,Thando,Mthembu,Female,56,Centurion,Gauteng,2025-03-03
+C0585,James,Molefe,Female,65,Gqeberha,Eastern Cape,2024-03-28
+C0586,Noah,Jacobs,Male,22,George,Western Cape,2025-04-20
+C0587,Amara,Molefe,Male,29,Richards Bay,KwaZulu-Natal,2023-05-19
+C0588,Noah,Pillay,Male,47,Pretoria,Gauteng,2025-05-07
+C0589,James,Mthembu,Female,70,Soweto,Gauteng,2024-12-22
+C0590,Ethan,Williams,Male,33,Richards Bay,KwaZulu-Natal,2024-10-12
+C0591,Emma,Smith,Female,40,Richards Bay,KwaZulu-Natal,2023-07-01
+C0592,Oliver,Mthembu,Male,42,Soweto,Gauteng,2025-02-05
+C0593,Aiden,Williams,Male,61,Pretoria,Gauteng,2025-05-27
+C0594,Liam,Peters,Male,48,Centurion,Gauteng,2024-06-09
+C0595,Liam,Pillay,Female,56,Bloemfontein,Free State,2024-09-07
+C0596,Themba,Khumalo,Female,40,Thohoyandou,Limpopo,2024-12-30
+C0597,Sipho,Williams,Female,55,Pietermaritzburg,KwaZulu-Natal,2024-04-22
+C0598,Leah,Smith,Female,37,Soweto,Gauteng,2024-07-28
+C0599,Thando,Mthembu,Female,35,East London,Eastern Cape,2023-03-07
+C0600,Mason,Jacobs,Male,21,Soweto,Gauteng,2023-07-12
+C0601,Thando,Williams,Male,64,Tzaneen,Limpopo,2024-02-18
+C0602,Themba,Molefe,Female,43,Centurion,Gauteng,2023-10-30
+C0603,Sofia,Peters,Male,39,Durban,KwaZulu-Natal,2024-08-20
+C0604,Layla,Williams,Female,60,Gqeberha,Eastern Cape,2024-12-03
+C0605,Lucas,Peters,Male,36,Umhlanga,KwaZulu-Natal,2025-05-15
+C0606,Themba,Patel,Male,61,Pretoria,Gauteng,2025-01-28
+C0607,Aisha,Pillay,Female,44,Bloemfontein,Free State,2023-08-16
+C0608,Themba,Smith,Female,47,Emalahleni,Mpumalanga,2024-01-16
+C0609,Sofia,Smith,Male,48,Thohoyandou,Limpopo,2023-02-24
+C0610,Zanele,Jacobs,Female,44,Bloemfontein,Free State,2025-06-07
+C0611,James,Nkosi,Female,54,Pretoria,Gauteng,2023-05-21
+C0612,Thando,Peters,Male,67,Welkom,Free State,2023-05-27
+C0613,Lucas,Nkosi,Male,18,Soweto,Gauteng,2024-10-08
+C0614,Lucas,Smith,Male,49,Pietermaritzburg,KwaZulu-Natal,2025-02-18
+C0615,Leah,Khumalo,Female,43,Mbombela,Mpumalanga,2023-05-13
+C0616,Liam,Mokoena,Male,64,Richards Bay,KwaZulu-Natal,2024-01-28
+C0617,Amara,Pillay,Male,61,Durban,KwaZulu-Natal,2023-11-26
+C0618,Aisha,Mthembu,Male,24,Pretoria,Gauteng,2023-08-20
+C0619,Oliver,Peters,Male,37,Umhlanga,KwaZulu-Natal,2023-06-21
+C0620,Amara,Smith,Female,45,Mahikeng,North West,2025-01-15
+C0621,Emma,Nkosi,Male,28,Bloemfontein,Free State,2023-12-17
+C0622,Aiden,Pillay,Male,31,Mahikeng,North West,2023-01-20
+C0623,Lucas,Dlamini,Female,63,Secunda,Mpumalanga,2024-05-31
+C0624,Themba,Govender,Male,56,Gqeberha,Eastern Cape,2024-01-20
+C0625,Liam,Mokoena,Male,44,Kimberley,Northern Cape,2024-10-31
+C0626,Themba,Ndlovu,Male,31,Durban,KwaZulu-Natal,2024-07-14
+C0627,Sipho,Khumalo,Male,60,Mthatha,Eastern Cape,2023-01-10
+C0628,Ethan,Jacobs,Male,36,Stellenbosch,Western Cape,2024-03-04
+C0629,James,Smith,Male,67,Johannesburg,Gauteng,2024-05-24
+C0630,Nandi,Mthembu,Male,20,Pretoria,Gauteng,2024-01-02
+C0631,Emma,Nkosi,Male,18,Stellenbosch,Western Cape,2024-12-05
+C0632,Sofia,Williams,Female,27,Johannesburg,Gauteng,2023-04-24
+C0633,Ethan,Molefe,Female,59,Rustenburg,North West,2025-01-10
+C0634,Mia,Mokoena,Male,70,Soweto,Gauteng,2023-09-28
+C0635,Sipho,Nkosi,Female,45,Johannesburg,Gauteng,2025-05-22
+C0636,Noah,Mokoena,Male,60,Mbombela,Mpumalanga,2025-05-21
+C0637,Mia,Smith,Female,64,East London,Eastern Cape,2024-01-02
+C0638,Ethan,Khumalo,Female,47,Soweto,Gauteng,2023-07-07
+C0639,Emma,Govender,Female,59,Centurion,Gauteng,2024-12-07
+C0640,Mason,Patel,Male,28,Bloemfontein,Free State,2023-04-26
+C0641,Sofia,Williams,Female,29,Centurion,Gauteng,2025-04-01
+C0642,Liam,Peters,Male,48,George,Western Cape,2024-09-18
+C0643,Mia,Mokoena,Male,34,Rustenburg,North West,2024-02-26
+C0644,Amara,Govender,Male,60,Gqeberha,Eastern Cape,2024-12-22
+C0645,Aiden,Ndlovu,Female,60,Bloemfontein,Free State,2024-03-19
+C0646,Layla,Molefe,Male,18,East London,Eastern Cape,2023-06-02
+C0647,Emma,Peters,Female,28,Gqeberha,Eastern Cape,2024-06-01
+C0648,Aiden,Nkosi,Female,21,Centurion,Gauteng,2023-11-25
+C0649,Aiden,Dlamini,Female,46,Paarl,Western Cape,2024-02-17
+C0650,Emma,Ndlovu,Female,25,Thohoyandou,Limpopo,2023-04-01
+C0651,Zanele,Khumalo,Male,53,Kimberley,Northern Cape,2023-04-16
+C0652,Leah,Smith,Female,50,Cape Town,Western Cape,2025-03-21
+C0653,Aisha,Peters,Male,70,Paarl,Western Cape,2023-12-16
+C0654,Layla,Govender,Female,63,Centurion,Gauteng,2023-12-06
+C0655,Ethan,Dlamini,Male,18,Mthatha,Eastern Cape,2024-04-08
+C0656,Amara,Nkosi,Male,20,Umhlanga,KwaZulu-Natal,2024-07-14
+C0657,Nandi,Dlamini,Female,57,Welkom,Free State,2023-05-24
+C0658,Zanele,Pillay,Female,70,Johannesburg,Gauteng,2025-05-22
+C0659,Ethan,Govender,Female,20,Secunda,Mpumalanga,2023-12-13
+C0660,Mia,Ndlovu,Male,49,Rustenburg,North West,2025-03-01
+C0661,Nandi,Peters,Female,50,Johannesburg,Gauteng,2024-07-20
+C0662,Sofia,Naidoo,Male,24,Mbombela,Mpumalanga,2024-12-09
+C0663,Zanele,Khumalo,Male,35,Umhlanga,KwaZulu-Natal,2024-05-31
+C0664,Mia,Govender,Male,26,Umhlanga,KwaZulu-Natal,2023-10-29
+C0665,Layla,Peters,Female,63,Umhlanga,KwaZulu-Natal,2025-05-13
+C0666,James,Pillay,Male,57,Secunda,Mpumalanga,2024-10-09
+C0667,Mason,Patel,Male,50,Mthatha,Eastern Cape,2023-12-20
+C0668,Ethan,Govender,Female,53,George,Western Cape,2024-12-28
+C0669,Layla,Mthembu,Female,69,Paarl,Western Cape,2024-11-21
+C0670,Zanele,Naidoo,Male,60,Johannesburg,Gauteng,2023-01-26
+C0671,Lucas,Mthembu,Female,27,Soweto,Gauteng,2025-02-07
+C0672,Sipho,Pillay,Male,40,Tzaneen,Limpopo,2025-03-14
+C0673,Layla,Peters,Male,65,Polokwane,Limpopo,2024-09-22
+C0674,Amara,Govender,Female,62,East London,Eastern Cape,2023-09-01
+C0675,Nandi,Govender,Female,53,East London,Eastern Cape,2024-02-01
+C0676,Leah,Peters,Female,32,Soweto,Gauteng,2023-07-27
+C0677,Sofia,Jacobs,Male,67,Welkom,Free State,2025-02-12
+C0678,Mia,Naidoo,Male,29,Gqeberha,Eastern Cape,2023-10-29
+C0679,Noah,Khumalo,Female,53,Rustenburg,North West,2024-01-22
+C0680,Themba,Mokoena,Female,47,Pretoria,Gauteng,2024-08-21
+C0681,Mason,Molefe,Female,56,Gqeberha,Eastern Cape,2023-02-10
+C0682,Sofia,Jacobs,Female,22,Soweto,Gauteng,2024-05-17
+C0683,Aiden,Naidoo,Male,68,Emalahleni,Mpumalanga,2024-06-22
+C0684,Layla,Khumalo,Male,40,Paarl,Western Cape,2024-07-10
+C0685,Thando,Nkosi,Female,36,Pretoria,Gauteng,2024-11-10
+C0686,Liam,Dlamini,Female,46,Centurion,Gauteng,2024-07-28
+C0687,Thando,Khumalo,Male,42,Pretoria,Gauteng,2023-02-10
+C0688,Amara,Peters,Female,50,Soweto,Gauteng,2023-01-26
+C0689,Noah,Mthembu,Male,38,Thohoyandou,Limpopo,2024-05-13
+C0690,Layla,Jacobs,Male,58,Cape Town,Western Cape,2023-06-21
+C0691,Nandi,Peters,Male,31,Pretoria,Gauteng,2025-06-04
+C0692,Oliver,Patel,Male,19,Paarl,Western Cape,2024-10-24
+C0693,Oliver,Dlamini,Male,29,Umhlanga,KwaZulu-Natal,2023-02-08
+C0694,Sofia,Peters,Male,34,Secunda,Mpumalanga,2023-03-14
+C0695,Zanele,Khumalo,Female,19,Richards Bay,KwaZulu-Natal,2024-10-07
+C0696,Liam,Williams,Male,66,Durban,KwaZulu-Natal,2024-07-01
+C0697,Oliver,Nkosi,Male,36,Mbombela,Mpumalanga,2024-12-18
+C0698,Oliver,Mthembu,Female,42,Emalahleni,Mpumalanga,2024-09-13
+C0699,Lucas,Jacobs,Male,26,Durban,KwaZulu-Natal,2024-04-30
+C0700,Mason,Mthembu,Female,18,Secunda,Mpumalanga,2023-10-30
+C0701,Noah,Mokoena,Female,52,Stellenbosch,Western Cape,2023-05-07
+C0702,James,Patel,Female,31,Cape Town,Western Cape,2023-11-09
+C0703,Lucas,Pillay,Female,30,Pietermaritzburg,KwaZulu-Natal,2023-06-14
+C0704,Layla,Ndlovu,Male,36,Johannesburg,Gauteng,2025-05-21
+C0705,James,Patel,Female,39,East London,Eastern Cape,2023-04-11
+C0706,Sipho,Smith,Male,30,Pietermaritzburg,KwaZulu-Natal,2023-04-13
+C0707,Leah,Williams,Female,62,Richards Bay,KwaZulu-Natal,2023-12-03
+C0708,Thando,Khumalo,Male,18,George,Western Cape,2025-04-07
+C0709,Nandi,Mthembu,Female,26,Pietermaritzburg,KwaZulu-Natal,2024-12-30
+C0710,Emma,Ndlovu,Female,40,East London,Eastern Cape,2025-06-17
+C0711,Ethan,Naidoo,Male,35,Emalahleni,Mpumalanga,2024-07-18
+C0712,James,Mthembu,Male,64,Polokwane,Limpopo,2024-07-05
+C0713,Amara,Williams,Male,70,Johannesburg,Gauteng,2025-05-19
+C0714,Sofia,Pillay,Male,53,Paarl,Western Cape,2025-02-26
+C0715,Mason,Nkosi,Female,32,Centurion,Gauteng,2024-10-31
+C0716,Mia,Jacobs,Male,43,Welkom,Free State,2023-05-18
+C0717,Aiden,Peters,Male,66,Durban,KwaZulu-Natal,2024-11-09
+C0718,Lucas,Smith,Male,65,Paarl,Western Cape,2023-06-13
+C0719,Aiden,Govender,Female,32,Emalahleni,Mpumalanga,2023-02-11
+C0720,Noah,Williams,Male,51,Soweto,Gauteng,2023-08-28
+C0721,Emma,Molefe,Female,20,Welkom,Free State,2024-02-02
+C0722,Amara,Williams,Female,65,Soweto,Gauteng,2023-04-16
+C0723,Zanele,Nkosi,Male,51,Pretoria,Gauteng,2024-01-21
+C0724,Zanele,Nkosi,Female,49,Pretoria,Gauteng,2024-06-12
+C0725,Amara,Molefe,Male,46,Secunda,Mpumalanga,2023-01-07
+C0726,Themba,Pillay,Male,29,Johannesburg,Gauteng,2024-06-10
+C0727,Aiden,Khumalo,Female,64,Johannesburg,Gauteng,2024-11-07
+C0728,James,Smith,Male,59,Centurion,Gauteng,2024-05-05
+C0729,Noah,Naidoo,Male,26,Polokwane,Limpopo,2023-09-07
+C0730,Mason,Mokoena,Male,34,Cape Town,Western Cape,2024-08-09
+C0731,Sofia,Williams,Male,64,Mahikeng,North West,2024-09-05
+C0732,James,Ndlovu,Female,48,East London,Eastern Cape,2023-03-29
+C0733,Mason,Govender,Male,57,Centurion,Gauteng,2024-09-07
+C0734,Thando,Molefe,Female,56,East London,Eastern Cape,2023-06-21
+C0735,Zanele,Naidoo,Male,19,Stellenbosch,Western Cape,2024-01-23
+C0736,Mason,Smith,Male,29,Centurion,Gauteng,2025-04-26
+C0737,Layla,Jacobs,Male,23,Durban,KwaZulu-Natal,2025-06-17
+C0738,Layla,Peters,Male,67,Stellenbosch,Western Cape,2024-09-09
+C0739,Nandi,Nkosi,Male,62,East London,Eastern Cape,2024-06-18
+C0740,Emma,Govender,Female,40,Stellenbosch,Western Cape,2025-04-01
+C0741,Mason,Mthembu,Female,67,Cape Town,Western Cape,2024-03-11
+C0742,Leah,Molefe,Female,34,Johannesburg,Gauteng,2023-10-18
+C0743,Amara,Dlamini,Male,42,Johannesburg,Gauteng,2024-08-14
+C0744,Thando,Khumalo,Female,24,Mthatha,Eastern Cape,2025-04-03
+C0745,Layla,Khumalo,Female,57,Soweto,Gauteng,2023-09-25
+C0746,James,Khumalo,Female,29,Centurion,Gauteng,2025-02-12
+C0747,Sipho,Smith,Female,67,Richards Bay,KwaZulu-Natal,2023-09-17
+C0748,Ethan,Patel,Male,46,Mthatha,Eastern Cape,2023-05-22
+C0749,James,Jacobs,Female,68,Mbombela,Mpumalanga,2023-04-13
+C0750,Zanele,Williams,Male,69,Durban,KwaZulu-Natal,2023-06-14
+C0751,Leah,Khumalo,Male,22,Pretoria,Gauteng,2024-04-27
+C0752,Leah,Mokoena,Female,43,Soweto,Gauteng,2023-03-23
+C0753,Leah,Mokoena,Male,58,George,Western Cape,2024-12-29
+C0754,Amara,Mthembu,Male,20,Cape Town,Western Cape,2023-07-26
+C0755,Aiden,Smith,Male,61,Secunda,Mpumalanga,2024-06-12
+C0756,Liam,Naidoo,Male,35,Pretoria,Gauteng,2024-11-01
+C0757,Zanele,Khumalo,Male,51,Emalahleni,Mpumalanga,2024-11-16
+C0758,Layla,Mthembu,Female,40,Johannesburg,Gauteng,2023-04-03
+C0759,Leah,Pillay,Female,43,Mahikeng,North West,2023-08-20
+C0760,Nandi,Jacobs,Male,53,George,Western Cape,2023-06-29
+C0761,Ethan,Govender,Female,52,Soweto,Gauteng,2023-12-15
+C0762,Mia,Khumalo,Female,67,Tzaneen,Limpopo,2023-09-14
+C0763,Mia,Williams,Female,55,Soweto,Gauteng,2025-03-05
+C0764,Themba,Dlamini,Female,58,Thohoyandou,Limpopo,2023-04-30
+C0765,Aiden,Govender,Female,44,Mbombela,Mpumalanga,2024-11-24
+C0766,Themba,Pillay,Female,23,Rustenburg,North West,2024-12-18
+C0767,Layla,Molefe,Male,48,Umhlanga,KwaZulu-Natal,2023-03-19
+C0768,Themba,Naidoo,Male,49,Pietermaritzburg,KwaZulu-Natal,2024-08-10
+C0769,Aiden,Peters,Female,31,Mbombela,Mpumalanga,2025-01-23
+C0770,Leah,Nkosi,Male,67,Pretoria,Gauteng,2025-05-06
+C0771,Emma,Smith,Male,66,Johannesburg,Gauteng,2024-11-23
+C0772,Emma,Nkosi,Female,49,Polokwane,Limpopo,2025-05-18
+C0773,Lucas,Govender,Female,43,Welkom,Free State,2024-05-17
+C0774,Amara,Govender,Female,48,Pretoria,Gauteng,2023-02-25
+C0775,Aisha,Khumalo,Male,47,Rustenburg,North West,2024-05-29
+C0776,Liam,Mokoena,Male,42,Upington,Northern Cape,2023-11-20
+C0777,Leah,Peters,Female,29,George,Western Cape,2024-01-06
+C0778,Emma,Smith,Female,41,Stellenbosch,Western Cape,2023-10-03
+C0779,Nandi,Patel,Female,41,Centurion,Gauteng,2023-08-04
+C0780,Lucas,Smith,Male,54,Thohoyandou,Limpopo,2024-04-06
+C0781,Themba,Govender,Male,53,Gqeberha,Eastern Cape,2025-01-08
+C0782,Mason,Govender,Male,48,Richards Bay,KwaZulu-Natal,2023-07-20
+C0783,Emma,Naidoo,Female,68,Polokwane,Limpopo,2024-03-07
+C0784,Sofia,Mokoena,Female,24,George,Western Cape,2024-07-29
+C0785,Themba,Ndlovu,Male,46,Gqeberha,Eastern Cape,2023-08-09
+C0786,Aisha,Jacobs,Female,40,Emalahleni,Mpumalanga,2024-01-05
+C0787,Leah,Pillay,Male,67,Johannesburg,Gauteng,2023-12-26
+C0788,Amara,Ndlovu,Female,23,Soweto,Gauteng,2024-11-20
+C0789,Mason,Peters,Male,58,Umhlanga,KwaZulu-Natal,2024-04-19
+C0790,Leah,Smith,Female,22,Thohoyandou,Limpopo,2024-03-07
+C0791,Thando,Nkosi,Female,63,Soweto,Gauteng,2023-08-22
+C0792,Mia,Govender,Female,65,Centurion,Gauteng,2023-10-05
+C0793,Lucas,Naidoo,Male,26,Paarl,Western Cape,2024-02-28
+C0794,Oliver,Pillay,Male,43,Mthatha,Eastern Cape,2023-09-15
+C0795,Emma,Jacobs,Male,19,Johannesburg,Gauteng,2025-06-18
+C0796,Oliver,Dlamini,Female,57,Secunda,Mpumalanga,2025-02-22
+C0797,Aiden,Pillay,Female,46,Centurion,Gauteng,2023-11-13
+C0798,Lucas,Mokoena,Male,60,Stellenbosch,Western Cape,2024-06-23
+C0799,Emma,Ndlovu,Female,53,Umhlanga,KwaZulu-Natal,2025-06-03
+C0800,Leah,Ndlovu,Female,51,Pietermaritzburg,KwaZulu-Natal,2024-08-28
+C0801,Aisha,Ndlovu,Male,69,Mthatha,Eastern Cape,2023-11-14
+C0802,Nandi,Mthembu,Male,37,Soweto,Gauteng,2024-01-10
+C0803,Sipho,Ndlovu,Male,62,Pretoria,Gauteng,2023-12-19
+C0804,Liam,Govender,Female,69,Mahikeng,North West,2023-11-03
+C0805,Liam,Jacobs,Female,30,Pretoria,Gauteng,2025-03-26
+C0806,Aiden,Naidoo,Female,42,Richards Bay,KwaZulu-Natal,2024-02-09
+C0807,Aiden,Jacobs,Female,36,Johannesburg,Gauteng,2024-03-08
+C0808,Themba,Khumalo,Male,22,Mthatha,Eastern Cape,2025-04-08
+C0809,Mia,Smith,Female,35,Soweto,Gauteng,2023-04-24
+C0810,Thando,Mokoena,Male,21,East London,Eastern Cape,2023-07-12
+C0811,Ethan,Mthembu,Female,26,Rustenburg,North West,2023-07-10
+C0812,Aiden,Dlamini,Male,18,Mthatha,Eastern Cape,2023-01-09
+C0813,Sipho,Govender,Female,41,George,Western Cape,2024-03-06
+C0814,Oliver,Peters,Male,21,Durban,KwaZulu-Natal,2023-12-05
+C0815,Layla,Ndlovu,Male,30,Centurion,Gauteng,2023-03-15
+C0816,Zanele,Peters,Male,25,Welkom,Free State,2025-04-16
+C0817,Mia,Pillay,Male,30,Kimberley,Northern Cape,2024-01-30
+C0818,James,Ndlovu,Female,61,Durban,KwaZulu-Natal,2024-06-17
+C0819,Noah,Patel,Male,34,Mahikeng,North West,2023-06-12
+C0820,Aisha,Molefe,Male,60,George,Western Cape,2023-07-23
+C0821,Nandi,Nkosi,Male,28,Johannesburg,Gauteng,2023-08-30
+C0822,Zanele,Govender,Male,18,Secunda,Mpumalanga,2023-05-03
+C0823,Leah,Naidoo,Female,67,Mahikeng,North West,2024-12-05
+C0824,Oliver,Williams,Female,66,Pretoria,Gauteng,2024-05-26
+C0825,Mason,Patel,Male,26,Cape Town,Western Cape,2023-12-31
+C0826,Aisha,Govender,Female,64,George,Western Cape,2024-07-25
+C0827,Mason,Mthembu,Male,49,Centurion,Gauteng,2024-01-02
+C0828,Layla,Patel,Female,30,Mthatha,Eastern Cape,2023-10-29
+C0829,Mia,Mthembu,Male,22,George,Western Cape,2023-11-28
+C0830,Themba,Jacobs,Female,47,Paarl,Western Cape,2023-10-30
+C0831,Lucas,Molefe,Male,57,Centurion,Gauteng,2025-01-21
+C0832,Thando,Patel,Male,60,Tzaneen,Limpopo,2023-09-02
+C0833,Amara,Williams,Female,67,Mahikeng,North West,2023-07-14
+C0834,Nandi,Williams,Female,25,George,Western Cape,2023-11-27
+C0835,Mason,Naidoo,Male,30,Johannesburg,Gauteng,2023-02-14
+C0836,Noah,Smith,Female,60,Pretoria,Gauteng,2023-04-12
+C0837,Aisha,Pillay,Male,18,George,Western Cape,2023-02-20
+C0838,Emma,Molefe,Male,47,Rustenburg,North West,2024-11-02
+C0839,Layla,Patel,Female,70,Polokwane,Limpopo,2024-01-05
+C0840,Leah,Mthembu,Male,64,Durban,KwaZulu-Natal,2025-04-23
+C0841,James,Jacobs,Male,24,Soweto,Gauteng,2023-03-21
+C0842,James,Pillay,Male,54,Mthatha,Eastern Cape,2024-01-30
+C0843,Layla,Khumalo,Male,67,Stellenbosch,Western Cape,2024-07-25
+C0844,Mia,Patel,Female,24,East London,Eastern Cape,2024-11-21
+C0845,Zanele,Jacobs,Female,60,Pretoria,Gauteng,2024-07-17
+C0846,Thando,Jacobs,Female,41,Centurion,Gauteng,2023-12-27
+C0847,Thando,Smith,Male,54,Richards Bay,KwaZulu-Natal,2025-04-25
+C0848,Layla,Molefe,Female,41,Paarl,Western Cape,2025-02-23
+C0849,Liam,Patel,Male,36,Mahikeng,North West,2024-02-11
+C0850,Liam,Mthembu,Male,31,Stellenbosch,Western Cape,2023-11-06
+C0851,Themba,Molefe,Male,24,Polokwane,Limpopo,2025-03-01
+C0852,Mason,Mthembu,Female,55,Soweto,Gauteng,2023-06-09
+C0853,Sipho,Dlamini,Female,54,Soweto,Gauteng,2025-04-10
+C0854,Thando,Govender,Female,29,Bloemfontein,Free State,2025-01-10
+C0855,Sipho,Mokoena,Female,23,Cape Town,Western Cape,2024-09-01
+C0856,Nandi,Khumalo,Male,67,Emalahleni,Mpumalanga,2023-12-23
+C0857,Zanele,Mokoena,Female,51,Johannesburg,Gauteng,2024-10-11
+C0858,Amara,Patel,Male,27,Pretoria,Gauteng,2023-12-01
+C0859,Leah,Smith,Male,32,Centurion,Gauteng,2024-04-01
+C0860,Mason,Nkosi,Male,48,Richards Bay,KwaZulu-Natal,2023-06-01
+C0861,Zanele,Mthembu,Male,43,Cape Town,Western Cape,2024-07-15
+C0862,Mason,Ndlovu,Male,49,Stellenbosch,Western Cape,2025-02-19
+C0863,Leah,Patel,Male,33,Pietermaritzburg,KwaZulu-Natal,2024-07-28
+C0864,Sofia,Dlamini,Male,60,Centurion,Gauteng,2023-11-28
+C0865,James,Nkosi,Female,56,Umhlanga,KwaZulu-Natal,2023-12-23
+C0866,Aisha,Smith,Female,57,East London,Eastern Cape,2023-06-23
+C0867,Aiden,Pillay,Female,27,Johannesburg,Gauteng,2025-04-17
+C0868,Noah,Pillay,Male,70,Mbombela,Mpumalanga,2023-04-26
+C0869,Ethan,Mthembu,Female,48,Soweto,Gauteng,2024-12-11
+C0870,Layla,Pillay,Male,52,Pretoria,Gauteng,2025-01-27
+C0871,Emma,Smith,Male,62,George,Western Cape,2024-07-15
+C0872,Sofia,Molefe,Male,34,Gqeberha,Eastern Cape,2024-01-21
+C0873,Leah,Mthembu,Male,47,Soweto,Gauteng,2023-07-25
+C0874,Zanele,Williams,Female,60,Gqeberha,Eastern Cape,2023-03-10
+C0875,Ethan,Mokoena,Female,59,Tzaneen,Limpopo,2024-01-04
+C0876,Ethan,Molefe,Female,49,Richards Bay,KwaZulu-Natal,2024-06-04
+C0877,Lucas,Pillay,Female,53,Tzaneen,Limpopo,2023-04-01
+C0878,Aiden,Molefe,Female,39,Rustenburg,North West,2023-02-10
+C0879,Aisha,Williams,Female,40,Stellenbosch,Western Cape,2023-01-19
+C0880,Themba,Govender,Male,58,Stellenbosch,Western Cape,2024-05-28
+C0881,Liam,Jacobs,Female,32,Centurion,Gauteng,2025-04-14
+C0882,Mason,Dlamini,Female,51,Centurion,Gauteng,2024-11-03
+C0883,Aiden,Smith,Male,45,Rustenburg,North West,2024-03-03
+C0884,Layla,Naidoo,Male,59,Upington,Northern Cape,2024-04-04
+C0885,Mason,Mthembu,Male,45,Pretoria,Gauteng,2025-06-02
+C0886,Sofia,Molefe,Male,38,Kimberley,Northern Cape,2024-11-02
+C0887,Thando,Peters,Male,64,Johannesburg,Gauteng,2023-07-08
+C0888,Nandi,Mthembu,Female,65,Soweto,Gauteng,2024-02-28
+C0889,James,Dlamini,Male,29,Mahikeng,North West,2023-06-05
+C0890,Sofia,Smith,Male,56,Soweto,Gauteng,2024-09-12
+C0891,Oliver,Patel,Female,26,Johannesburg,Gauteng,2024-01-03
+C0892,Aisha,Naidoo,Female,49,Paarl,Western Cape,2024-12-30
+C0893,Aiden,Mokoena,Female,66,Pietermaritzburg,KwaZulu-Natal,2023-07-17
+C0894,Aiden,Patel,Male,66,Mahikeng,North West,2024-02-27
+C0895,Leah,Ndlovu,Female,47,Pretoria,Gauteng,2024-03-25
+C0896,Noah,Smith,Female,64,Welkom,Free State,2024-02-19
+C0897,Ethan,Ndlovu,Female,70,Durban,KwaZulu-Natal,2024-06-17
+C0898,Layla,Khumalo,Male,53,Bloemfontein,Free State,2024-06-15
+C0899,Sipho,Ndlovu,Female,37,Durban,KwaZulu-Natal,2023-07-14
+C0900,Lucas,Khumalo,Female,57,Emalahleni,Mpumalanga,2024-04-17
+C0901,Mia,Dlamini,Male,29,Bloemfontein,Free State,2024-04-19
+C0902,Mason,Khumalo,Female,38,Secunda,Mpumalanga,2024-07-13
+C0903,Sofia,Molefe,Male,47,Pietermaritzburg,KwaZulu-Natal,2024-04-09
+C0904,Lucas,Patel,Male,23,Soweto,Gauteng,2024-12-09
+C0905,Aisha,Dlamini,Female,64,Centurion,Gauteng,2024-10-11
+C0906,Lucas,Khumalo,Female,20,Secunda,Mpumalanga,2024-09-18
+C0907,Mason,Naidoo,Male,29,Emalahleni,Mpumalanga,2024-08-02
+C0908,Sipho,Mthembu,Female,36,Mbombela,Mpumalanga,2024-03-05
+C0909,James,Mokoena,Female,18,Cape Town,Western Cape,2023-05-15
+C0910,Liam,Smith,Female,33,Richards Bay,KwaZulu-Natal,2024-07-10
+C0911,Nandi,Ndlovu,Male,56,Centurion,Gauteng,2024-04-09
+C0912,Themba,Smith,Male,21,Stellenbosch,Western Cape,2024-07-14
+C0913,Aisha,Mokoena,Male,20,Johannesburg,Gauteng,2024-10-30
+C0914,Thando,Molefe,Male,21,Mthatha,Eastern Cape,2023-11-02
+C0915,Sipho,Smith,Male,47,Pretoria,Gauteng,2023-06-15
+C0916,Oliver,Govender,Female,38,Emalahleni,Mpumalanga,2023-02-06
+C0917,Oliver,Govender,Female,53,Richards Bay,KwaZulu-Natal,2025-04-19
+C0918,Ethan,Patel,Female,39,Centurion,Gauteng,2023-05-18
+C0919,James,Smith,Male,24,Stellenbosch,Western Cape,2024-12-13
+C0920,Leah,Molefe,Female,45,Cape Town,Western Cape,2024-05-10
+C0921,Amara,Smith,Female,26,George,Western Cape,2023-09-23
+C0922,Emma,Ndlovu,Male,57,Paarl,Western Cape,2024-06-16
+C0923,Liam,Dlamini,Male,47,Soweto,Gauteng,2023-07-18
+C0924,James,Govender,Female,44,Cape Town,Western Cape,2025-01-25
+C0925,James,Mokoena,Male,62,Soweto,Gauteng,2024-07-27
+C0926,Sipho,Jacobs,Female,67,Johannesburg,Gauteng,2023-11-12
+C0927,Zanele,Patel,Male,29,Soweto,Gauteng,2023-12-16
+C0928,Emma,Molefe,Female,69,Soweto,Gauteng,2024-11-19
+C0929,Mason,Williams,Female,52,Pretoria,Gauteng,2024-05-08
+C0930,Nandi,Molefe,Male,51,Welkom,Free State,2025-03-13
+C0931,Layla,Mokoena,Male,54,Soweto,Gauteng,2024-07-22
+C0932,Mason,Mthembu,Male,39,East London,Eastern Cape,2023-03-09
+C0933,Leah,Khumalo,Male,56,Kimberley,Northern Cape,2024-08-07
+C0934,Thando,Patel,Male,35,Soweto,Gauteng,2024-12-23
+C0935,Aiden,Nkosi,Female,37,Richards Bay,KwaZulu-Natal,2025-06-17
+C0936,Ethan,Nkosi,Male,67,Soweto,Gauteng,2023-06-29
+C0937,Amara,Mokoena,Female,50,Johannesburg,Gauteng,2024-03-30
+C0938,Amara,Mthembu,Female,27,Soweto,Gauteng,2024-05-10
+C0939,Amara,Williams,Male,31,Mbombela,Mpumalanga,2025-04-21
+C0940,Amara,Dlamini,Male,37,East London,Eastern Cape,2024-02-01
+C0941,Mia,Molefe,Male,24,Rustenburg,North West,2023-12-08
+C0942,Sofia,Govender,Female,58,George,Western Cape,2023-01-24
+C0943,James,Mthembu,Female,52,Welkom,Free State,2023-07-25
+C0944,Ethan,Mthembu,Male,28,Richards Bay,KwaZulu-Natal,2024-11-18
+C0945,Layla,Jacobs,Male,31,Johannesburg,Gauteng,2024-09-29
+C0946,Mason,Patel,Female,54,George,Western Cape,2023-10-05
+C0947,Leah,Molefe,Female,52,Johannesburg,Gauteng,2023-11-15
+C0948,Emma,Molefe,Male,24,Pietermaritzburg,KwaZulu-Natal,2023-01-30
+C0949,Zanele,Naidoo,Female,57,Durban,KwaZulu-Natal,2024-03-12
+C0950,James,Patel,Male,66,Umhlanga,KwaZulu-Natal,2025-04-17
+C0951,Oliver,Peters,Female,24,Secunda,Mpumalanga,2023-05-15
+C0952,Aiden,Pillay,Male,57,Richards Bay,KwaZulu-Natal,2024-04-26
+C0953,Lucas,Patel,Female,68,Soweto,Gauteng,2024-02-06
+C0954,Emma,Mokoena,Male,48,Thohoyandou,Limpopo,2024-04-09
+C0955,Lucas,Mthembu,Female,56,Centurion,Gauteng,2024-04-17
+C0956,Ethan,Nkosi,Male,68,Cape Town,Western Cape,2024-02-20
+C0957,Sofia,Khumalo,Male,57,Richards Bay,KwaZulu-Natal,2024-02-15
+C0958,Zanele,Dlamini,Female,31,Pretoria,Gauteng,2024-05-08
+C0959,Nandi,Smith,Female,52,Tzaneen,Limpopo,2024-03-17
+C0960,Oliver,Patel,Female,25,Gqeberha,Eastern Cape,2024-11-09
+C0961,Layla,Dlamini,Female,29,Paarl,Western Cape,2023-11-30
+C0962,Leah,Dlamini,Female,38,Richards Bay,KwaZulu-Natal,2023-03-13
+C0963,James,Peters,Male,55,Cape Town,Western Cape,2023-04-03
+C0964,Mason,Williams,Male,46,Bloemfontein,Free State,2025-02-14
+C0965,Sofia,Ndlovu,Male,31,Paarl,Western Cape,2024-09-22
+C0966,Sofia,Govender,Female,45,East London,Eastern Cape,2023-11-03
+C0967,Sofia,Mokoena,Female,26,East London,Eastern Cape,2023-04-02
+C0968,Layla,Mokoena,Male,63,Polokwane,Limpopo,2024-01-14
+C0969,Sipho,Peters,Male,33,George,Western Cape,2023-04-23
+C0970,Thando,Patel,Female,43,Richards Bay,KwaZulu-Natal,2024-10-02
+C0971,Lucas,Ndlovu,Male,30,Pietermaritzburg,KwaZulu-Natal,2024-11-09
+C0972,Nandi,Naidoo,Female,60,George,Western Cape,2025-05-10
+C0973,Liam,Naidoo,Female,60,Johannesburg,Gauteng,2023-03-15
+C0974,Mason,Williams,Female,47,Pietermaritzburg,KwaZulu-Natal,2023-03-28
+C0975,Lucas,Ndlovu,Female,53,Welkom,Free State,2024-09-30
+C0976,Aiden,Naidoo,Female,56,Thohoyandou,Limpopo,2023-12-30
+C0977,Aiden,Patel,Female,44,Centurion,Gauteng,2025-05-17
+C0978,Noah,Smith,Female,63,Mahikeng,North West,2023-02-04
+C0979,Oliver,Naidoo,Female,47,Richards Bay,KwaZulu-Natal,2024-12-08
+C0980,Emma,Williams,Male,61,Cape Town,Western Cape,2023-09-09
+C0981,Leah,Mokoena,Female,52,Mthatha,Eastern Cape,2023-11-16
+C0982,Amara,Molefe,Female,54,Emalahleni,Mpumalanga,2024-04-09
+C0983,Sipho,Mthembu,Male,20,Emalahleni,Mpumalanga,2023-12-28
+C0984,Sipho,Patel,Female,21,Mthatha,Eastern Cape,2025-02-06
+C0985,Noah,Williams,Female,69,Stellenbosch,Western Cape,2024-08-09
+C0986,Emma,Dlamini,Male,50,Mbombela,Mpumalanga,2023-10-21
+C0987,Mason,Smith,Female,35,Soweto,Gauteng,2023-09-16
+C0988,Ethan,Smith,Male,55,Polokwane,Limpopo,2025-01-29
+C0989,Aisha,Govender,Male,34,Secunda,Mpumalanga,2024-04-02
+C0990,Lucas,Govender,Male,39,Mbombela,Mpumalanga,2024-05-11
+C0991,Mason,Peters,Female,66,Kimberley,Northern Cape,2024-09-01
+C0992,Mia,Patel,Male,31,Upington,Northern Cape,2023-09-01
+C0993,Themba,Govender,Male,21,George,Western Cape,2023-02-25
+C0994,Sipho,Ndlovu,Male,42,Centurion,Gauteng,2024-05-02
+C0995,Themba,Naidoo,Female,18,East London,Eastern Cape,2024-04-30
+C0996,Thando,Jacobs,Male,24,Centurion,Gauteng,2024-01-27
+C0997,Nandi,Smith,Female,39,Welkom,Free State,2025-05-14
+C0998,Sofia,Khumalo,Female,67,Johannesburg,Gauteng,2023-09-19
+C0999,Sofia,Govender,Male,51,Gqeberha,Eastern Cape,2025-01-21
+C1000,Layla,Mokoena,Male,22,Pietermaritzburg,KwaZulu-Natal,2023-11-17
