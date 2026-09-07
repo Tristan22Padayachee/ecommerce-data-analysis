@@ -1,5 +1,5 @@
 -- Business Analysis Queries
--- PostgreSQL-compatible SQL
+-- SQLite-compatible SQL
 
 -- 1. Overall KPIs
 SELECT
@@ -11,7 +11,7 @@ SELECT
 FROM orders o JOIN products p ON o.ProductID=p.ProductID;
 
 -- 2. Monthly revenue and profit
-SELECT DATE_TRUNC('month',o.OrderDate) AS month,
+SELECT strftime('%Y-%m',o.OrderDate) AS month,
        SUM(o.Quantity*p.UnitPrice*(1-o.Discount)) AS revenue,
        SUM((o.Quantity*p.UnitPrice*(1-o.Discount))-(o.Quantity*p.UnitCost)) AS profit
 FROM orders o JOIN products p ON o.ProductID=p.ProductID
